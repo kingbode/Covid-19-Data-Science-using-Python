@@ -2,7 +2,7 @@
 
 To get Data from Internet about Covid-19 Virus
 
-v2.19:
+v2.1:
 
 from below website regarding Covid-19 Virus spreading statistics
 Like:
