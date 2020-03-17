@@ -1,5 +1,8 @@
-# Web-Scraping
- To get Data from Internet about Covid-19 Virus
+# Web-Scraping , for covid-10 statistics:
+
+To get Data from Internet about Covid-19 Virus
+
+v2.19:
 
 from below website regarding Covid-19 Virus spreading statistics
 Like:
@@ -17,6 +20,7 @@ data analytics.
 3- saving these data to JSON file
 
 ====================================
+v2.2:
 
 Trying to get data from another website which seems more accurate and live
 
@@ -27,3 +31,9 @@ https://www.worldometers.info/coronavirus/?fbclid=IwAR3Q7nTfpo3flcECajNXURyzoe7H
 3- saving these data to JSON file
 
 ====================================
+
+Working on below:
+
+1- Run the code on periodic basis and stor the results to track teh cariance
+
+2- Do some analysis and predictions.
