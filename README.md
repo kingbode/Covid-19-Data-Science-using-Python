@@ -22,7 +22,7 @@ data analytics.
 ====================================
 v2.2:
 
-Trying to get data from another website which seems more accurate and live
+Trying to get data from another website which seems to have more accurate and live data
 
 https://www.worldometers.info/coronavirus/?fbclid=IwAR3Q7nTfpo3flcECajNXURyzoe7H0lPYGGLkjeELWBYJjoVCvjqqjeew6Eg"
 
