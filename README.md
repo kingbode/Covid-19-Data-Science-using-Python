@@ -1,4 +1,4 @@
-# Web-Scraping , for covid-10 statistics:
+# Web-Scraping , for covid-19 statistics:
 
 To get Data from Internet about Covid-19 Virus
 
