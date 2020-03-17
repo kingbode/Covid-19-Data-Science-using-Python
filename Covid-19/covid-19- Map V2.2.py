@@ -61,7 +61,7 @@ for i in range (1,len(country_DataSet)-1):
 
 covid_19_Data_json_1 = json.dumps(covid_19_Data_1)
 
-with open('C:/Covid_19_Data_1.json', 'w', encoding='utf-8') as f:
+with open('C:/WebScraping-Covid-19/Covid_19_Data_1.json', 'w', encoding='utf-8') as f:
     json.dump(covid_19_Data_1, f, ensure_ascii=False, indent=4)
 
 
@@ -147,7 +147,7 @@ for i in range (1,len(Data_Set_tr_Tags)-1):
 
 covid_19_Data_json_2 = json.dumps(covid_19_Data_2)
 
-with open('C:/Users/Daizer/Desktop/Python codes/WebScraping-Covid-19/Covid-19/Covid_19_Data_2.json', 'w', encoding='utf-8') as f:
+with open('C:/WebScraping-Covid-19/Covid-19/Covid_19_Data_2.json', 'w', encoding='utf-8') as f:
     json.dump(covid_19_Data_2, f, ensure_ascii=False, indent=4)
 
 
