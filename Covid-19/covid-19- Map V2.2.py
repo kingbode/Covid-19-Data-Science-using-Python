@@ -140,8 +140,8 @@ Data_Set_tr_Tags = soup_2.findAll('tr')
 for i in range (1,len(Data_Set_tr_Tags)-1):
 	# Data_Set_List = ' '.join(Data_Set[i].text.strip().split()).strip().split(' ')
 	Data_Set_td_Tags = Data_Set_tr_Tags[i].findAll('td')
-	for j in range(0,len(Data_Set_td_Tags)-1):
-		covid_19_Data_2.append({'Country Name': Data_Set_td_Tags[0].text, 'Confirmed Cases': Data_Set_td_Tags[1].text, 'Reported Death': Data_Set_td_Tags[3].text, 'Recovered Cases': Data_Set_td_Tags[5].text})
+	#for j in range(0,len(Data_Set_td_Tags)-1):
+	covid_19_Data_2.append({'Country Name': Data_Set_td_Tags[0].text, 'Confirmed Cases': Data_Set_td_Tags[1].text, 'Reported Death': Data_Set_td_Tags[3].text, 'Recovered Cases': Data_Set_td_Tags[5].text})
 
 #print json.dumps(covid_19_Data)
 
