@@ -1,0 +1,1030 @@
+[
+    [
+        {
+            "Country Name": " China ",
+            "Confirmed Cases": "80,894",
+            "Reported Death": " 3,237 ",
+            "Recovered Cases": "69,614 "
+        },
+        {
+            "Country Name": " Italy ",
+            "Confirmed Cases": "31,506",
+            "Reported Death": " 2,503 ",
+            "Recovered Cases": "2,941 "
+        },
+        {
+            "Country Name": " Iran ",
+            "Confirmed Cases": "17,361",
+            "Reported Death": " 1,135 ",
+            "Recovered Cases": "5,389 "
+        },
+        {
+            "Country Name": " Spain ",
+            "Confirmed Cases": "13,716",
+            "Reported Death": " 598 ",
+            "Recovered Cases": "1,081 "
+        },
+        {
+            "Country Name": " Germany ",
+            "Confirmed Cases": "10,069",
+            "Reported Death": " 26 ",
+            "Recovered Cases": "71 "
+        },
+        {
+            "Country Name": " S. Korea ",
+            "Confirmed Cases": "8,413",
+            "Reported Death": " 84 ",
+            "Recovered Cases": "1,540 "
+        },
+        {
+            "Country Name": " France ",
+            "Confirmed Cases": "7,730",
+            "Reported Death": " 175 ",
+            "Recovered Cases": "602 "
+        },
+        {
+            "Country Name": " USA ",
+            "Confirmed Cases": "6,524",
+            "Reported Death": " 116 ",
+            "Recovered Cases": "106 "
+        },
+        {
+            "Country Name": " Switzerland ",
+            "Confirmed Cases": "2,742",
+            "Reported Death": " 27 ",
+            "Recovered Cases": "15 "
+        },
+        {
+            "Country Name": " UK ",
+            "Confirmed Cases": "1,950",
+            "Reported Death": " 71 ",
+            "Recovered Cases": "65 "
+        },
+        {
+            "Country Name": " Netherlands ",
+            "Confirmed Cases": "1,705",
+            "Reported Death": " 43 ",
+            "Recovered Cases": "2 "
+        },
+        {
+            "Country Name": " Norway ",
+            "Confirmed Cases": "1,524",
+            "Reported Death": " 4 ",
+            "Recovered Cases": "1 "
+        },
+        {
+            "Country Name": " Belgium ",
+            "Confirmed Cases": "1,486",
+            "Reported Death": " 14 ",
+            "Recovered Cases": "14 "
+        },
+        {
+            "Country Name": " Austria ",
+            "Confirmed Cases": "1,471",
+            "Reported Death": " 7 ",
+            "Recovered Cases": "9 "
+        },
+        {
+            "Country Name": " Sweden ",
+            "Confirmed Cases": "1,196",
+            "Reported Death": " 8 ",
+            "Recovered Cases": "1 "
+        },
+        {
+            "Country Name": " Denmark ",
+            "Confirmed Cases": "1,044",
+            "Reported Death": " 4 ",
+            "Recovered Cases": "1 "
+        },
+        {
+            "Country Name": " Japan ",
+            "Confirmed Cases": "889",
+            "Reported Death": " 29 ",
+            "Recovered Cases": "144 "
+        },
+        {
+            "Country Name": " Malaysia ",
+            "Confirmed Cases": "790",
+            "Reported Death": " 2 ",
+            "Recovered Cases": "60 "
+        },
+        {
+            "Country Name": " Diamond Princess ",
+            "Confirmed Cases": "712",
+            "Reported Death": " 7 ",
+            "Recovered Cases": "456 "
+        },
+        {
+            "Country Name": " Portugal ",
+            "Confirmed Cases": "642",
+            "Reported Death": " 2 ",
+            "Recovered Cases": "3 "
+        },
+        {
+            "Country Name": " Canada ",
+            "Confirmed Cases": "598",
+            "Reported Death": " 8 ",
+            "Recovered Cases": "12 "
+        },
+        {
+            "Country Name": " Australia ",
+            "Confirmed Cases": "565",
+            "Reported Death": " 6 ",
+            "Recovered Cases": "43 "
+        },
+        {
+            "Country Name": " Czechia ",
+            "Confirmed Cases": "464",
+            "Reported Death": " ",
+            "Recovered Cases": "3 "
+        },
+        {
+            "Country Name": " Qatar ",
+            "Confirmed Cases": "442",
+            "Reported Death": " ",
+            "Recovered Cases": "4 "
+        },
+        {
+            "Country Name": " Israel ",
+            "Confirmed Cases": "427",
+            "Reported Death": " ",
+            "Recovered Cases": "11 "
+        },
+        {
+            "Country Name": " Greece ",
+            "Confirmed Cases": "387",
+            "Reported Death": " 5 ",
+            "Recovered Cases": "14 "
+        },
+        {
+            "Country Name": " Finland ",
+            "Confirmed Cases": "359",
+            "Reported Death": " ",
+            "Recovered Cases": "10 "
+        },
+        {
+            "Country Name": " Brazil ",
+            "Confirmed Cases": "350",
+            "Reported Death": " 1 ",
+            "Recovered Cases": "2 "
+        },
+        {
+            "Country Name": " Ireland ",
+            "Confirmed Cases": "292",
+            "Reported Death": " 2 ",
+            "Recovered Cases": "5 "
+        },
+        {
+            "Country Name": " Slovenia ",
+            "Confirmed Cases": "275",
+            "Reported Death": " 1 ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " Singapore ",
+            "Confirmed Cases": "266",
+            "Reported Death": " ",
+            "Recovered Cases": "114 "
+        },
+        {
+            "Country Name": " Estonia ",
+            "Confirmed Cases": "258",
+            "Reported Death": " ",
+            "Recovered Cases": "1 "
+        },
+        {
+            "Country Name": " Pakistan ",
+            "Confirmed Cases": "256",
+            "Reported Death": " ",
+            "Recovered Cases": "2 "
+        },
+        {
+            "Country Name": " Bahrain ",
+            "Confirmed Cases": "255",
+            "Reported Death": " 1 ",
+            "Recovered Cases": "88 "
+        },
+        {
+            "Country Name": " Iceland ",
+            "Confirmed Cases": "250",
+            "Reported Death": " ",
+            "Recovered Cases": "5 "
+        },
+        {
+            "Country Name": " Poland ",
+            "Confirmed Cases": "246",
+            "Reported Death": " 5 ",
+            "Recovered Cases": "1 "
+        },
+        {
+            "Country Name": " Romania ",
+            "Confirmed Cases": "246",
+            "Reported Death": " ",
+            "Recovered Cases": "19 "
+        },
+        {
+            "Country Name": " Indonesia ",
+            "Confirmed Cases": "227",
+            "Reported Death": " 19 ",
+            "Recovered Cases": "11 "
+        },
+        {
+            "Country Name": " Thailand ",
+            "Confirmed Cases": "212",
+            "Reported Death": " 1 ",
+            "Recovered Cases": "41 "
+        },
+        {
+            "Country Name": " Luxembourg ",
+            "Confirmed Cases": "203",
+            "Reported Death": " 2 ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " Philippines ",
+            "Confirmed Cases": "202",
+            "Reported Death": " 17 ",
+            "Recovered Cases": "4 "
+        },
+        {
+            "Country Name": " Chile ",
+            "Confirmed Cases": "201",
+            "Reported Death": " ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " Egypt ",
+            "Confirmed Cases": "196",
+            "Reported Death": " 6 ",
+            "Recovered Cases": "26 "
+        },
+        {
+            "Country Name": " Hong Kong ",
+            "Confirmed Cases": "181",
+            "Reported Death": " 4 ",
+            "Recovered Cases": "92 "
+        },
+        {
+            "Country Name": " Saudi Arabia ",
+            "Confirmed Cases": "171",
+            "Reported Death": " ",
+            "Recovered Cases": "6 "
+        },
+        {
+            "Country Name": " Iraq ",
+            "Confirmed Cases": "164",
+            "Reported Death": " 12 ",
+            "Recovered Cases": "41 "
+        },
+        {
+            "Country Name": " Ecuador ",
+            "Confirmed Cases": "155",
+            "Reported Death": " 2 ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " India ",
+            "Confirmed Cases": "152",
+            "Reported Death": " 3 ",
+            "Recovered Cases": "14 "
+        },
+        {
+            "Country Name": " Russia ",
+            "Confirmed Cases": "147",
+            "Reported Death": " ",
+            "Recovered Cases": "8 "
+        },
+        {
+            "Country Name": " Kuwait ",
+            "Confirmed Cases": "142",
+            "Reported Death": " ",
+            "Recovered Cases": "12 "
+        },
+        {
+            "Country Name": " Lebanon ",
+            "Confirmed Cases": "133",
+            "Reported Death": " 4 ",
+            "Recovered Cases": "4 "
+        },
+        {
+            "Country Name": " San Marino ",
+            "Confirmed Cases": "119",
+            "Reported Death": " 11 ",
+            "Recovered Cases": "4 "
+        },
+        {
+            "Country Name": " Peru ",
+            "Confirmed Cases": "117",
+            "Reported Death": " ",
+            "Recovered Cases": "1 "
+        },
+        {
+            "Country Name": " South Africa ",
+            "Confirmed Cases": "116",
+            "Reported Death": " ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " UAE ",
+            "Confirmed Cases": "113",
+            "Reported Death": " ",
+            "Recovered Cases": "26 "
+        },
+        {
+            "Country Name": " Slovakia ",
+            "Confirmed Cases": "105",
+            "Reported Death": " ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " Taiwan ",
+            "Confirmed Cases": "100",
+            "Reported Death": " 1 ",
+            "Recovered Cases": "20 "
+        },
+        {
+            "Country Name": " Turkey ",
+            "Confirmed Cases": "98",
+            "Reported Death": " 1 ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " Mexico ",
+            "Confirmed Cases": "93",
+            "Reported Death": " ",
+            "Recovered Cases": "4 "
+        },
+        {
+            "Country Name": " Panama ",
+            "Confirmed Cases": "86",
+            "Reported Death": " 1 ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " Armenia ",
+            "Confirmed Cases": "84",
+            "Reported Death": " ",
+            "Recovered Cases": "1 "
+        },
+        {
+            "Country Name": " Serbia ",
+            "Confirmed Cases": "83",
+            "Reported Death": " ",
+            "Recovered Cases": "1 "
+        },
+        {
+            "Country Name": " Bulgaria ",
+            "Confirmed Cases": "81",
+            "Reported Death": " 2 ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " Croatia ",
+            "Confirmed Cases": "81",
+            "Reported Death": " ",
+            "Recovered Cases": "5 "
+        },
+        {
+            "Country Name": " Argentina ",
+            "Confirmed Cases": "79",
+            "Reported Death": " 2 ",
+            "Recovered Cases": "3 "
+        },
+        {
+            "Country Name": " Colombia ",
+            "Confirmed Cases": "75",
+            "Reported Death": " ",
+            "Recovered Cases": "1 "
+        },
+        {
+            "Country Name": " Algeria ",
+            "Confirmed Cases": "72",
+            "Reported Death": " 6 ",
+            "Recovered Cases": "10 "
+        },
+        {
+            "Country Name": " Latvia ",
+            "Confirmed Cases": "71",
+            "Reported Death": " ",
+            "Recovered Cases": "1 "
+        },
+        {
+            "Country Name": " Vietnam ",
+            "Confirmed Cases": "68",
+            "Reported Death": " ",
+            "Recovered Cases": "16 "
+        },
+        {
+            "Country Name": " Brunei ",
+            "Confirmed Cases": "68",
+            "Reported Death": " ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " Albania ",
+            "Confirmed Cases": "59",
+            "Reported Death": " 2 ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " Hungary ",
+            "Confirmed Cases": "58",
+            "Reported Death": " 1 ",
+            "Recovered Cases": "2 "
+        },
+        {
+            "Country Name": " Faeroe Islands ",
+            "Confirmed Cases": "58",
+            "Reported Death": " ",
+            "Recovered Cases": "1 "
+        },
+        {
+            "Country Name": " Belarus ",
+            "Confirmed Cases": "51",
+            "Reported Death": " ",
+            "Recovered Cases": "5 "
+        },
+        {
+            "Country Name": " Sri Lanka ",
+            "Confirmed Cases": "51",
+            "Reported Death": " ",
+            "Recovered Cases": "3 "
+        },
+        {
+            "Country Name": " Costa Rica ",
+            "Confirmed Cases": "50",
+            "Reported Death": " ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " Uruguay ",
+            "Confirmed Cases": "50",
+            "Reported Death": " ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " Morocco ",
+            "Confirmed Cases": "49",
+            "Reported Death": " 2 ",
+            "Recovered Cases": "1 "
+        },
+        {
+            "Country Name": " Cyprus ",
+            "Confirmed Cases": "49",
+            "Reported Death": " ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " Jordan ",
+            "Confirmed Cases": "48",
+            "Reported Death": " ",
+            "Recovered Cases": "1 "
+        },
+        {
+            "Country Name": " Malta ",
+            "Confirmed Cases": "48",
+            "Reported Death": " ",
+            "Recovered Cases": "2 "
+        },
+        {
+            "Country Name": " Palestine ",
+            "Confirmed Cases": "44",
+            "Reported Death": " ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " Andorra ",
+            "Confirmed Cases": "39",
+            "Reported Death": " ",
+            "Recovered Cases": "1 "
+        },
+        {
+            "Country Name": " Georgia ",
+            "Confirmed Cases": "38",
+            "Reported Death": " ",
+            "Recovered Cases": "1 "
+        },
+        {
+            "Country Name": " Bosnia and Herzegovina ",
+            "Confirmed Cases": "38",
+            "Reported Death": " ",
+            "Recovered Cases": "2 "
+        },
+        {
+            "Country Name": " Kazakhstan ",
+            "Confirmed Cases": "36",
+            "Reported Death": " ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " Venezuela ",
+            "Confirmed Cases": "36",
+            "Reported Death": " ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " Cambodia ",
+            "Confirmed Cases": "35",
+            "Reported Death": " ",
+            "Recovered Cases": "1 "
+        },
+        {
+            "Country Name": " North Macedonia ",
+            "Confirmed Cases": "35",
+            "Reported Death": " ",
+            "Recovered Cases": "1 "
+        },
+        {
+            "Country Name": " Azerbaijan ",
+            "Confirmed Cases": "34",
+            "Reported Death": " 1 ",
+            "Recovered Cases": "6 "
+        },
+        {
+            "Country Name": " Lithuania ",
+            "Confirmed Cases": "33",
+            "Reported Death": " ",
+            "Recovered Cases": "1 "
+        },
+        {
+            "Country Name": " Oman ",
+            "Confirmed Cases": "33",
+            "Reported Death": " ",
+            "Recovered Cases": "12 "
+        },
+        {
+            "Country Name": " Senegal ",
+            "Confirmed Cases": "31",
+            "Reported Death": " ",
+            "Recovered Cases": "2 "
+        },
+        {
+            "Country Name": " Moldova ",
+            "Confirmed Cases": "30",
+            "Reported Death": " 1 ",
+            "Recovered Cases": "1 "
+        },
+        {
+            "Country Name": " Tunisia ",
+            "Confirmed Cases": "29",
+            "Reported Death": " ",
+            "Recovered Cases": "1 "
+        },
+        {
+            "Country Name": " Guadeloupe ",
+            "Confirmed Cases": "27",
+            "Reported Death": " ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " Afghanistan ",
+            "Confirmed Cases": "22",
+            "Reported Death": " ",
+            "Recovered Cases": "1 "
+        },
+        {
+            "Country Name": " Dominican Republic ",
+            "Confirmed Cases": "21",
+            "Reported Death": " 1 ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " Burkina Faso ",
+            "Confirmed Cases": "20",
+            "Reported Death": " 1 ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " New Zealand ",
+            "Confirmed Cases": "20",
+            "Reported Death": " ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " Martinique ",
+            "Confirmed Cases": "19",
+            "Reported Death": " 1 ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " Liechtenstein ",
+            "Confirmed Cases": "19",
+            "Reported Death": " ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " Macao ",
+            "Confirmed Cases": "15",
+            "Reported Death": " ",
+            "Recovered Cases": "10 "
+        },
+        {
+            "Country Name": " Uzbekistan ",
+            "Confirmed Cases": "15",
+            "Reported Death": " ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " Ukraine ",
+            "Confirmed Cases": "14",
+            "Reported Death": " 2 ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " Bangladesh ",
+            "Confirmed Cases": "14",
+            "Reported Death": " 1 ",
+            "Recovered Cases": "3 "
+        },
+        {
+            "Country Name": " Jamaica ",
+            "Confirmed Cases": "13",
+            "Reported Death": " ",
+            "Recovered Cases": "2 "
+        },
+        {
+            "Country Name": " Maldives ",
+            "Confirmed Cases": "13",
+            "Reported Death": " ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " Bolivia ",
+            "Confirmed Cases": "12",
+            "Reported Death": " ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " Réunion ",
+            "Confirmed Cases": "12",
+            "Reported Death": " ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " Guyana ",
+            "Confirmed Cases": "11",
+            "Reported Death": " 1 ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " French Guiana ",
+            "Confirmed Cases": "11",
+            "Reported Death": " ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " Paraguay ",
+            "Confirmed Cases": "11",
+            "Reported Death": " ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " Cameroon ",
+            "Confirmed Cases": "10",
+            "Reported Death": " ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " Monaco ",
+            "Confirmed Cases": "9",
+            "Reported Death": " ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " Honduras ",
+            "Confirmed Cases": "9",
+            "Reported Death": " ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " Guatemala ",
+            "Confirmed Cases": "8",
+            "Reported Death": " 1 ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " Nigeria ",
+            "Confirmed Cases": "8",
+            "Reported Death": " ",
+            "Recovered Cases": "1 "
+        },
+        {
+            "Country Name": " Guam ",
+            "Confirmed Cases": "8",
+            "Reported Death": " ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " Rwanda ",
+            "Confirmed Cases": "8",
+            "Reported Death": " ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " Cuba ",
+            "Confirmed Cases": "7",
+            "Reported Death": " ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " DRC ",
+            "Confirmed Cases": "7",
+            "Reported Death": " ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " Ghana ",
+            "Confirmed Cases": "7",
+            "Reported Death": " ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " Kenya ",
+            "Confirmed Cases": "7",
+            "Reported Death": " ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " Trinidad and Tobago ",
+            "Confirmed Cases": "7",
+            "Reported Death": " ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " Channel Islands ",
+            "Confirmed Cases": "6",
+            "Reported Death": " ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " Ivory Coast ",
+            "Confirmed Cases": "6",
+            "Reported Death": " ",
+            "Recovered Cases": "1 "
+        },
+        {
+            "Country Name": " Ethiopia ",
+            "Confirmed Cases": "6",
+            "Reported Death": " ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " Mongolia ",
+            "Confirmed Cases": "6",
+            "Reported Death": " ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " Puerto Rico ",
+            "Confirmed Cases": "5",
+            "Reported Death": " ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " Aruba ",
+            "Confirmed Cases": "4",
+            "Reported Death": " ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " Seychelles ",
+            "Confirmed Cases": "4",
+            "Reported Death": " ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " Curaçao ",
+            "Confirmed Cases": "3",
+            "Reported Death": " ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " French Polynesia ",
+            "Confirmed Cases": "3",
+            "Reported Death": " ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " Gabon ",
+            "Confirmed Cases": "3",
+            "Reported Death": " ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " Gibraltar ",
+            "Confirmed Cases": "3",
+            "Reported Death": " ",
+            "Recovered Cases": "2 "
+        },
+        {
+            "Country Name": " Kyrgyzstan ",
+            "Confirmed Cases": "3",
+            "Reported Death": " ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " Mayotte ",
+            "Confirmed Cases": "3",
+            "Reported Death": " ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " St. Barth ",
+            "Confirmed Cases": "3",
+            "Reported Death": " ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " Saint Martin ",
+            "Confirmed Cases": "3",
+            "Reported Death": " ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " Tanzania ",
+            "Confirmed Cases": "3",
+            "Reported Death": " ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " Sudan ",
+            "Confirmed Cases": "2",
+            "Reported Death": " 1 ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " Barbados ",
+            "Confirmed Cases": "2",
+            "Reported Death": " ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " Liberia ",
+            "Confirmed Cases": "2",
+            "Reported Death": " ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " Montenegro ",
+            "Confirmed Cases": "2",
+            "Reported Death": " ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " Namibia ",
+            "Confirmed Cases": "2",
+            "Reported Death": " ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " New Caledonia ",
+            "Confirmed Cases": "2",
+            "Reported Death": " ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " Saint Lucia ",
+            "Confirmed Cases": "2",
+            "Reported Death": " ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " U.S. Virgin Islands ",
+            "Confirmed Cases": "2",
+            "Reported Death": " ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " Zambia ",
+            "Confirmed Cases": "2",
+            "Reported Death": " ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " Cayman Islands ",
+            "Confirmed Cases": "1",
+            "Reported Death": " 1 ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " Nepal ",
+            "Confirmed Cases": "1",
+            "Reported Death": " ",
+            "Recovered Cases": "1 "
+        },
+        {
+            "Country Name": " Antigua and Barbuda ",
+            "Confirmed Cases": "1",
+            "Reported Death": " ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " Bahamas ",
+            "Confirmed Cases": "1",
+            "Reported Death": " ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " Benin ",
+            "Confirmed Cases": "1",
+            "Reported Death": " ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " Bhutan ",
+            "Confirmed Cases": "1",
+            "Reported Death": " ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " CAR ",
+            "Confirmed Cases": "1",
+            "Reported Death": " ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " Congo ",
+            "Confirmed Cases": "1",
+            "Reported Death": " ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " Djibouti ",
+            "Confirmed Cases": "1",
+            "Reported Death": " ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " Equatorial Guinea ",
+            "Confirmed Cases": "1",
+            "Reported Death": " ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " Gambia ",
+            "Confirmed Cases": "1",
+            "Reported Death": " ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " Greenland ",
+            "Confirmed Cases": "1",
+            "Reported Death": " ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " Guinea ",
+            "Confirmed Cases": "1",
+            "Reported Death": " ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " Vatican City ",
+            "Confirmed Cases": "1",
+            "Reported Death": " ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " Mauritania ",
+            "Confirmed Cases": "1",
+            "Reported Death": " ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " Montserrat ",
+            "Confirmed Cases": "1",
+            "Reported Death": " ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " St. Vincent Grenadines ",
+            "Confirmed Cases": "1",
+            "Reported Death": " ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " Somalia ",
+            "Confirmed Cases": "1",
+            "Reported Death": " ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " Suriname ",
+            "Confirmed Cases": "1",
+            "Reported Death": " ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " Eswatini ",
+            "Confirmed Cases": "1",
+            "Reported Death": " ",
+            "Recovered Cases": " "
+        },
+        {
+            "Country Name": " Togo ",
+            "Confirmed Cases": "1",
+            "Reported Death": " ",
+            "Recovered Cases": " "
+        }
+    ]
+]
