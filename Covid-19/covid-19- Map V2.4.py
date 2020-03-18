@@ -15,7 +15,7 @@ import datetime
 import os
 import errno
 
-folderDateTime = datetime.datetime.today().date().strftime("%d-%m-%Y")
+folderDateTime = datetime.datetime.today().date().strftime("%d-%m-%Y ") + datetime.datetime.today().time().strftime("%H-%M")
 
 
 def getWebPage(url):
@@ -61,7 +61,6 @@ def saveData(*DataSet):
     with open(filename_2, "w", encoding='utf-8') as f:
         json.dump(DataSet, f, ensure_ascii=False, indent=4)
 
-
     return 0
 
 # ===================================================================
@@ -80,22 +79,27 @@ if html_source_2:
 
 # =========== to get the data, I examined the page and found all data comes under tr tags
 
-covid_19_Data_2 = []
-covid_19_Data_2.clear()
+covid_19_Data = []
+covid_19_Data.clear()
 
 # ============ to get all tr Tags
 
 Data_Set_tr_Tags = soup_2.findAll('tr')
+#print(len(Data_Set_tr_Tags))
 
-for i in range (1 ,len(Data_Set_tr_Tags ) -1):
-    # Data_Set_List = ' '.join(Data_Set[i].text.strip().split()).strip().split(' ')
+for i in range (1 , 175 ): #len(Data_Set_tr_Tags ) -1):
+    #if i==172:
+    #   print(i)
     Data_Set_td_Tags = Data_Set_tr_Tags[i].findAll('td')
-	# for j in range(0,len(Data_Set_td_Tags)-1):
-    covid_19_Data_2.append({'Country Name': Data_Set_td_Tags[0].text, 'Confirmed Cases': Data_Set_td_Tags[1].text, 'Reported Death': Data_Set_td_Tags[3].text, 'Recovered Cases': Data_Set_td_Tags[5].text})
+    #print(i, Data_Set_td_Tags[0].text,Data_Set_td_Tags[1].text,Data_Set_td_Tags[3].text,Data_Set_td_Tags[5].text)
+    if len(Data_Set_td_Tags) == 9: #len(Data_Set_tr_Tags[i-1].findAll('td')):
+        # check_Element = {'Country Name': Data_Set_td_Tags[0].text, 'Confirmed Cases': Data_Set_td_Tags[1].text,'Reported Death': Data_Set_td_Tags[3].text, 'Recovered Cases': Data_Set_td_Tags[5].text}
+        # if  check_Element not in covid_19_Data_2 :
+            covid_19_Data.append({'Country Name': Data_Set_td_Tags[0].text, 'Confirmed Cases': Data_Set_td_Tags[1].text,'Reported Death': Data_Set_td_Tags[3].text, 'Recovered Cases': Data_Set_td_Tags[5].text})
 
 
 # ======================= To save data in json file  ===================
 
-saveData(covid_19_Data_2)
+saveData(covid_19_Data)
 
 # ===================================================================
