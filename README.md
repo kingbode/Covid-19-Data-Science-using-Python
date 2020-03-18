@@ -26,10 +26,11 @@ Trying to get data from another website which seems to have more accurate and li
 
 https://www.worldometers.info/coronavirus/?fbclid=IwAR3Q7nTfpo3flcECajNXURyzoe7H0lPYGGLkjeELWBYJjoVCvjqqjeew6Eg"
 
-1- now successfully achieved pulling infomration about Country , Recorded cases , Reported Death cases , Recovered cases
-2- these data was under tr and td Tags in the html source
-3- saving these data to JSON file
-4- Now we need to Run the code on periodic basis and store the results to track the variance , done in ver 2.4
+1- now successfully achieved pulling infomration about Country , Recorded cases , Reported Death cases , Recovered cases.
+2- these data was under tr and td Tags in the html source.
+3- saving these data to JSON file.
+4- Now we need to Run the code on periodic basis and store the results to track the variance , done in ver 2.4.
+
 =====================================
 V2.4:
 
