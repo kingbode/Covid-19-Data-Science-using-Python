@@ -39,6 +39,4 @@ Added date and time to save the webpage that has the data along with extracted d
 ====================================
 Working on below:
 
-1- 
-
-2- Do some analysis and predictions ========= still working on it.
+1- Do some analysis and predictions ========= still working on it.
