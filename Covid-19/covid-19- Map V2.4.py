@@ -1,5 +1,5 @@
 
-# This code is to scrape data from a website anput the recorded cases ( infected, reported death, and recovered cases )
+# This code is to scrape data from a website about the recorded cases ( infected, reported death, and recovered cases )
 # trying to learn scraping and participate on getting updated information for the same
 # and may be will be used for later analytics job
 # =========================================================================================================================
@@ -17,6 +17,8 @@ import errno
 
 folderDateTime = datetime.datetime.today().date().strftime("%d-%m-%Y ") + datetime.datetime.today().time().strftime("%H-%M")
 
+fullPath = 'C:/WebScraping-Covid-19/Covid-19 Data - ' + str(folderDateTime)
+
 
 def getWebPage(url):
     """ get the webpage source and save it in a folder with the datetime attribute """
@@ -28,17 +30,17 @@ def getWebPage(url):
 
     browser.quit()
 
-    filename_1 = 'C:/WebScraping-Covid-19/Covid-19 Data - ' + str(folderDateTime) + '/WebPage.html'
+    webPage_filename = fullPath + '/WebPage.html'
 
 
-    if not os.path.exists(os.path.dirname(filename_1)):
+    if not os.path.exists(os.path.dirname(webPage_filename)):
         try:
-            os.makedirs(os.path.dirname(filename_1))
+            os.makedirs(os.path.dirname(webPage_filename))
         except OSError as exc:
             if exc.errno != errno.EEXIST:
                     raise
 
-    with open(filename_1, "w", encoding='utf-8') as f:
+    with open(webPage_filename, "w", encoding='utf-8') as f:
         f.write(webPage)
 
 
@@ -48,17 +50,17 @@ def saveData(*DataSet):
 
     """ To save extracted data in a JSON file """
 
-    filename_2 = 'C:/WebScraping-Covid-19/Covid-19 Data - ' + str(folderDateTime) + '/Covid-19 - Extracted Data - ' + str(folderDateTime) + '.json'
+    JSON_Data_filename = fullPath + '/Covid-19 - Extracted Data - ' + str(folderDateTime) + '.json'
 
 
-    if not os.path.exists(os.path.dirname(filename_2)):
+    if not os.path.exists(os.path.dirname(JSON_Data_filename)):
         try:
-            os.makedirs(os.path.dirname(filename_2))
+            os.makedirs(os.path.dirname(JSON_Data_filename))
         except OSError as exc: # Guard against race condition
             if exc.errno != errno.EEXIST:
                 raise
 
-    with open(filename_2, "w", encoding='utf-8') as f:
+    with open(JSON_Data_filename, "w", encoding='utf-8') as f:
         json.dump(DataSet, f, ensure_ascii=False, indent=4)
 
     return 0
