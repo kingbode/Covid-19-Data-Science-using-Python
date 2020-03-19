@@ -6,7 +6,10 @@
 
 import requests
 
-from selenium import webdriver  
+from selenium import webdriver
+from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.chrome.options import Options
+
 from bs4 import BeautifulSoup
 
 import json
@@ -20,10 +23,22 @@ folderDateTime = datetime.datetime.today().date().strftime("%d-%m-%Y ") + dateti
 fullPath = 'C:/WebScraping-Covid-19/Covid-19 Data - ' + str(folderDateTime)
 
 
+
+
+
 def getWebPage(url):
     """ get the webpage source and save it in a folder with the datetime attribute """
+    # options to start Chrome in headless mode.
+    options = webdriver.ChromeOptions()
+    options.add_experimental_option("excludeSwitches", ["ignore-certificate-errors"])
+    options.add_argument('--disable-gpu')
+    options.add_argument('--headless')
 
-    browser = webdriver.Chrome()
+    browser = webdriver.Chrome(chrome_options=options)
+
+    #chrome_options.binary_location = '/Applications/Google Chrome Canary.app/Contents/MacOS/Google Chrome Canary'
+    #browser = webdriver.Chrome()#executable_path=os.path.abspath(“chromedriver"), chrome_options = chrome_options)
+    #browser = webdriver.PhantomJS() # webdriver.Chrome()
     browser.get(url)
 
     webPage = browser.page_source
@@ -69,15 +84,28 @@ def saveData(*DataSet):
 
 # =================  to get data from another website ================
 
+#================== Main ===============================
+#=======================================================
 
-URL_2 = "https://www.worldometers.info/coronavirus/?fbclid=IwAR3Q7nTfpo3flcECajNXURyzoe7H0lPYGGLkjeELWBYJjoVCvjqqjeew6Eg"
+URL = "https://www.worldometers.info/coronavirus/?fbclid=IwAR3Q7nTfpo3flcECajNXURyzoe7H0lPYGGLkjeELWBYJjoVCvjqqjeew6Eg"
 
 
-html_source_2 = getWebPage(URL_2)
+print('Getting latest Corona Virus Updates from World Meter Website')
+print('============================================================')
+print(URL)
+print('============================================================')
+
+html_source = getWebPage(URL)
 
 
-if html_source_2:
-    soup_2 = BeautifulSoup(html_source_2 ,"html.parser")
+print('============================================================')
+print('Saving Data ....')
+
+
+if html_source:
+    soup = BeautifulSoup(html_source ,"html.parser")
+    print('Data has been downloaded successfully')
+
 
 # =========== to get the data, I examined the page and found all data comes under tr tags
 
@@ -86,14 +114,14 @@ covid_19_Data.clear()
 
 # ============ to get all tr Tags
 
-Data_Set_tr_Tags = soup_2.findAll('tr')
+Data_Set_tr_Tags = soup.findAll('tr')
 #print(len(Data_Set_tr_Tags))
 
 Check_if_reached_Total = ''
 
 for i in range (1 , len(Data_Set_tr_Tags ) -1):
-    if i==174:
-       print(i)
+    #if i==174:
+    #   print(i)
     if Check_if_reached_Total == 'Total:':
         pass
         # this check to avoid reading more data that are hidden on the webpage and stores previuos reads !!! , may be used by the website
@@ -112,5 +140,7 @@ for i in range (1 , len(Data_Set_tr_Tags ) -1):
 # ======================= To save data in json file  ===================
 
 saveData(covid_19_Data)
+
+print('Data has been saved ....')
 
 # ===================================================================
