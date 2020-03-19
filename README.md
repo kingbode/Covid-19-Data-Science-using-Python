@@ -37,7 +37,8 @@ V2.4:
 - Added date and time to save the webpage that has the data along with extracted data in a separate folder with date and time attributes, so later we could work on all files and detect the variance in data.
 - using Headless broswer ( hidden mode )
 - Adding messgaes that show the progress of the code.
-
+- saving data in csv file format as well.
+- updating all previous data in json file format to be in csv file format as well, this is to prepare for merging data and analysis in later updates.
 
 =====================================
 Working on below:
