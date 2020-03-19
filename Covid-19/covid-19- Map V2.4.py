@@ -17,13 +17,11 @@ import datetime
 
 import os
 import errno
+from JSON_to_CSV import _Json_to_CSV_
 
 folderDateTime = datetime.datetime.today().date().strftime("%d-%m-%Y ") + datetime.datetime.today().time().strftime("%H-%M")
 
 fullPath = 'C:/WebScraping-Covid-19/Covid-19 Data - ' + str(folderDateTime)
-
-
-
 
 
 def getWebPage(url):
@@ -58,8 +56,8 @@ def getWebPage(url):
     with open(webPage_filename, "w", encoding='utf-8') as f:
         f.write(webPage)
 
-
     return webPage
+
 
 def saveData(*DataSet):
 
@@ -78,12 +76,15 @@ def saveData(*DataSet):
     with open(JSON_Data_filename, "w", encoding='utf-8') as f:
         json.dump(DataSet, f, ensure_ascii=False, indent=4)
 
+    _Json_to_CSV_(JSON_Data_filename)
+
     return 0
 
-# ===================================================================
 
-# =================  to get data from another website ================
 
+
+
+#=======================================================
 #================== Main ===============================
 #=======================================================
 
@@ -141,6 +142,6 @@ for i in range (1 , len(Data_Set_tr_Tags ) -1):
 
 saveData(covid_19_Data)
 
-print('Data has been saved ....')
+print('Data has been saved in json and csv formats ....')
 
 # ===================================================================
