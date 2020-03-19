@@ -89,15 +89,24 @@ covid_19_Data.clear()
 Data_Set_tr_Tags = soup_2.findAll('tr')
 #print(len(Data_Set_tr_Tags))
 
-for i in range (1 , 175 ): #len(Data_Set_tr_Tags ) -1):
-    #if i==172:
-    #   print(i)
+Check_if_reached_Total = ''
+
+for i in range (1 , len(Data_Set_tr_Tags ) -1):
+    if i==174:
+       print(i)
+    if Check_if_reached_Total == 'Total:':
+        pass
+        # this check to avoid reading more data that are hidden on the webpage and stores previuos reads !!! , may be used by the website
+        break
     Data_Set_td_Tags = Data_Set_tr_Tags[i].findAll('td')
     #print(i, Data_Set_td_Tags[0].text,Data_Set_td_Tags[1].text,Data_Set_td_Tags[3].text,Data_Set_td_Tags[5].text)
     if len(Data_Set_td_Tags) == 9: #len(Data_Set_tr_Tags[i-1].findAll('td')):
         # check_Element = {'Country Name': Data_Set_td_Tags[0].text, 'Confirmed Cases': Data_Set_td_Tags[1].text,'Reported Death': Data_Set_td_Tags[3].text, 'Recovered Cases': Data_Set_td_Tags[5].text}
         # if  check_Element not in covid_19_Data_2 :
-            covid_19_Data.append({'Country Name': Data_Set_td_Tags[0].text, 'Confirmed Cases': Data_Set_td_Tags[1].text,'Reported Death': Data_Set_td_Tags[3].text, 'Recovered Cases': Data_Set_td_Tags[5].text , 'Active Cases': Data_Set_td_Tags[6].text})
+        covid_19_Data.append({'Country Name': Data_Set_td_Tags[0].text.strip(), 'Confirmed Cases': Data_Set_td_Tags[1].text.strip(),'Reported Death': Data_Set_td_Tags[3].text.strip(), 'Recovered Cases': Data_Set_td_Tags[5].text.strip() , 'Active Cases': Data_Set_td_Tags[6].text.strip()})
+        Check_if_reached_Total = Data_Set_td_Tags[0].text.strip()
+
+
 
 
 # ======================= To save data in json file  ===================
