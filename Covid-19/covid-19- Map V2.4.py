@@ -17,70 +17,15 @@ import datetime
 
 import os
 import errno
-from JSON_to_CSV import _Json_to_CSV_
+from __Functions__ import _Json_to_CSV_ , _save_Data_to_JSON , _get_WebPage_Source_
 
 folderDateTime = datetime.datetime.today().date().strftime("%d-%m-%Y ") + datetime.datetime.today().time().strftime("%H-%M")
 
-fullPath = 'C:/WebScraping-Covid-19/Covid-19 Data - ' + str(folderDateTime)
+fullPath = 'C:/WebScraping-Covid-19/Covid-19 Data - ' + str(folderDateTime) + '/'
 
+webPage_filename = fullPath + 'www.worldometers.info-coronavirus - '+ folderDateTime +'.html'
 
-def getWebPage(url):
-    """ get the webpage source and save it in a folder with the datetime attribute """
-    # options to start Chrome in headless mode.
-    options = webdriver.ChromeOptions()
-    options.add_experimental_option("excludeSwitches", ["ignore-certificate-errors"])
-    options.add_argument('--disable-gpu')
-    options.add_argument('--headless')
-
-    browser = webdriver.Chrome(chrome_options=options)
-
-    #chrome_options.binary_location = '/Applications/Google Chrome Canary.app/Contents/MacOS/Google Chrome Canary'
-    #browser = webdriver.Chrome()#executable_path=os.path.abspath(“chromedriver"), chrome_options = chrome_options)
-    #browser = webdriver.PhantomJS() # webdriver.Chrome()
-    browser.get(url)
-
-    webPage = browser.page_source
-
-    browser.quit()
-
-    webPage_filename = fullPath + '/WebPage.html'
-
-
-    if not os.path.exists(os.path.dirname(webPage_filename)):
-        try:
-            os.makedirs(os.path.dirname(webPage_filename))
-        except OSError as exc:
-            if exc.errno != errno.EEXIST:
-                    raise
-
-    with open(webPage_filename, "w", encoding='utf-8') as f:
-        f.write(webPage)
-
-    return webPage
-
-
-def saveData(*DataSet):
-
-    """ To save extracted data in a JSON file """
-
-    JSON_Data_filename = fullPath + '/Covid-19 - Extracted Data - ' + str(folderDateTime) + '.json'
-
-
-    if not os.path.exists(os.path.dirname(JSON_Data_filename)):
-        try:
-            os.makedirs(os.path.dirname(JSON_Data_filename))
-        except OSError as exc: # Guard against race condition
-            if exc.errno != errno.EEXIST:
-                raise
-
-    with open(JSON_Data_filename, "w", encoding='utf-8') as f:
-        json.dump(DataSet, f, ensure_ascii=False, indent=4)
-
-    _Json_to_CSV_(JSON_Data_filename)
-
-    return 0
-
-
+JSON_Data_filename = fullPath + 'Covid-19 - Extracted Data - ' + str(folderDateTime) + '.json'
 
 
 
@@ -96,11 +41,14 @@ print('============================================================')
 print(URL)
 print('============================================================')
 
-html_source = getWebPage(URL)
 
-
+print('WebPage for above site is saved for offline analysis in case required... please wait')
 print('============================================================')
-print('Saving Data ....')
+
+html_source = _get_WebPage_Source_(URL,webPage_filename)
+
+print('Job is Done... Now Data is being extracted .... please wait')
+
 
 
 if html_source:
@@ -113,6 +61,7 @@ if html_source:
 covid_19_Data = []
 covid_19_Data.clear()
 
+# Web Scraping job ....
 # ============ to get all tr Tags
 
 Data_Set_tr_Tags = soup.findAll('tr')
@@ -121,7 +70,8 @@ Data_Set_tr_Tags = soup.findAll('tr')
 Check_if_reached_Total = ''
 
 for i in range (1 , len(Data_Set_tr_Tags ) -1):
-    #if i==174:
+    # used for debug
+    #if i==183:
     #   print(i)
     if Check_if_reached_Total == 'Total:':
         pass
@@ -136,12 +86,14 @@ for i in range (1 , len(Data_Set_tr_Tags ) -1):
         Check_if_reached_Total = Data_Set_td_Tags[0].text.strip()
 
 
-
+#=======================================================================
 
 # ======================= To save data in json file  ===================
 
-saveData(covid_19_Data)
+_save_Data_to_JSON(JSON_Data_filename , covid_19_Data )
 
-print('Data has been saved in json and csv formats ....')
+_Json_to_CSV_(JSON_Data_filename)
+
+print('Data has been extracted and saved in json and csv file formats ....')
 
 # ===================================================================
