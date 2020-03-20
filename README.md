@@ -42,6 +42,8 @@ V2.4:
 - movung all functions to __Functions__.py class to make Main easy to read.
 - added functions description in __Functions__.py class
 
+- added "References - What I learned.txt" file
+
 =====================================
 Working on below:
 
