@@ -1,0 +1,43 @@
+Here I will list what I learned and reference for everything I learned and solution for every problem I faced.
+
+- for DateTime Class
+  https://www.youtube.com/watch?v=RjMbCUpvIgw&t=185s
+ 
+- for JSON Class
+  https://www.youtube.com/watch?v=9N6a-VLBa2I&t=298s
+  https://www.youtube.com/watch?v=pTT7HMqDnJw&t=199s
+  
+- how to grab from JSON in selenium python
+  https://stackoverflow.com/questions/26661808/how-to-grab-from-json-in-selenium-python
+  
+- for CSV Class
+  https://www.youtube.com/watch?v=Xi52tx6phRU
+
+- How do I list all files of a directory?
+  https://stackoverflow.com/questions/3207219/how-do-i-list-all-files-of-a-directory
+  
+- Web Scraping
+  https://www.pluralsight.com/guides/web-scraping-with-beautiful-soup
+  
+- how to get all td values inside given html code in python
+  https://stackoverflow.com/questions/48899783/how-to-get-all-td-values-inside-given-html-code-in-python
+  
+- Get web page content (Not from source code)
+  https://stackoverflow.com/questions/39554955/get-web-page-content-not-from-source-code
+  https://stackoverflow.com/questions/14529849/python-scraping-javascript-using-selenium-and-beautiful-soup
+  https://stackoverflow.com/questions/53753782/python-webscraping-beautifulsoup-not-showing-all-html-source-content
+  
+- BeautifulSoup does not return all elements on page
+  https://stackoverflow.com/questions/46113924/beautifulsoup-does-not-return-all-elements-on-page
+  https://stackoverflow.com/questions/26192727/extract-content-of-script-with-beautifulsoup
+  
+- Python - BeautifulSoup, get tag within a tag
+  https://beautiful-soup-4.readthedocs.io/en/latest/
+  https://stackoverflow.com/questions/44958587/python-beautifulsoup-get-tag-within-a-tag
+  https://stackoverflow.com/questions/40335367/finding-href-by-anchor-text-inside-table-list
+  https://stackoverflow.com/questions/52392246/how-to-convert-class-bs4-element-resultset-to-json-in-python-using-builtin-o
+  https://www.powercms.in/blog/how-get-json-data-remote-url-python-script
+  https://stackoverflow.com/questions/12965203/how-to-get-json-from-webpage-into-python-script
+
+- Remove a prefix from a string [duplicate]
+  https://stackoverflow.com/questions/16891340/remove-a-prefix-from-a-string
