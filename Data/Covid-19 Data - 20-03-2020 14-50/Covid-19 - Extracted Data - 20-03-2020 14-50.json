@@ -5,1288 +5,1656 @@
             "Confirmed Cases": "80,967",
             "Reported Death": "3,248",
             "Recovered Cases": "71,150",
-            "Active Cases": "6,569"
+            "Active Cases": "6,569",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Italy",
             "Confirmed Cases": "41,035",
             "Reported Death": "3,405",
             "Recovered Cases": "4,440",
-            "Active Cases": "33,190"
+            "Active Cases": "33,190",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Spain",
             "Confirmed Cases": "19,980",
             "Reported Death": "1,002",
             "Recovered Cases": "1,588",
-            "Active Cases": "17,390"
+            "Active Cases": "17,390",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Iran",
             "Confirmed Cases": "19,644",
             "Reported Death": "1,433",
             "Recovered Cases": "5,979",
-            "Active Cases": "12,232"
+            "Active Cases": "12,232",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Germany",
             "Confirmed Cases": "16,666",
             "Reported Death": "44",
             "Recovered Cases": "115",
-            "Active Cases": "16,507"
+            "Active Cases": "16,507",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "USA",
             "Confirmed Cases": "14,366",
             "Reported Death": "217",
             "Recovered Cases": "125",
-            "Active Cases": "14,024"
+            "Active Cases": "14,024",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "France",
             "Confirmed Cases": "10,995",
             "Reported Death": "372",
             "Recovered Cases": "1,295",
-            "Active Cases": "9,328"
+            "Active Cases": "9,328",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "S. Korea",
             "Confirmed Cases": "8,652",
             "Reported Death": "94",
             "Recovered Cases": "2,233",
-            "Active Cases": "6,325"
+            "Active Cases": "6,325",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Switzerland",
             "Confirmed Cases": "4,898",
             "Reported Death": "43",
             "Recovered Cases": "15",
-            "Active Cases": "4,840"
+            "Active Cases": "4,840",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "UK",
             "Confirmed Cases": "3,269",
             "Reported Death": "144",
             "Recovered Cases": "65",
-            "Active Cases": "3,060"
+            "Active Cases": "3,060",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Netherlands",
             "Confirmed Cases": "2,460",
             "Reported Death": "76",
             "Recovered Cases": "2",
-            "Active Cases": "2,382"
+            "Active Cases": "2,382",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Belgium",
             "Confirmed Cases": "2,257",
             "Reported Death": "37",
             "Recovered Cases": "204",
-            "Active Cases": "2,016"
+            "Active Cases": "2,016",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Austria",
             "Confirmed Cases": "2,203",
             "Reported Death": "6",
             "Recovered Cases": "9",
-            "Active Cases": "2,188"
+            "Active Cases": "2,188",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Norway",
             "Confirmed Cases": "1,808",
             "Reported Death": "7",
             "Recovered Cases": "1",
-            "Active Cases": "1,800"
+            "Active Cases": "1,800",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Sweden",
             "Confirmed Cases": "1,456",
             "Reported Death": "11",
             "Recovered Cases": "16",
-            "Active Cases": "1,429"
+            "Active Cases": "1,429",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Denmark",
             "Confirmed Cases": "1,226",
             "Reported Death": "9",
             "Recovered Cases": "1",
-            "Active Cases": "1,216"
+            "Active Cases": "1,216",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Malaysia",
             "Confirmed Cases": "1,030",
             "Reported Death": "2",
             "Recovered Cases": "87",
-            "Active Cases": "941"
+            "Active Cases": "941",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Japan",
             "Confirmed Cases": "963",
             "Reported Death": "33",
             "Recovered Cases": "215",
-            "Active Cases": "715"
+            "Active Cases": "715",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Australia",
             "Confirmed Cases": "876",
             "Reported Death": "7",
             "Recovered Cases": "46",
-            "Active Cases": "823"
+            "Active Cases": "823",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Canada",
             "Confirmed Cases": "873",
             "Reported Death": "12",
             "Recovered Cases": "11",
-            "Active Cases": "850"
+            "Active Cases": "850",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Portugal",
             "Confirmed Cases": "786",
             "Reported Death": "5",
             "Recovered Cases": "4",
-            "Active Cases": "777"
+            "Active Cases": "777",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Czechia",
             "Confirmed Cases": "774",
             "Reported Death": "",
             "Recovered Cases": "4",
-            "Active Cases": "770"
+            "Active Cases": "770",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Diamond Princess",
             "Confirmed Cases": "712",
             "Reported Death": "7",
             "Recovered Cases": "527",
-            "Active Cases": "178"
+            "Active Cases": "178",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Israel",
             "Confirmed Cases": "705",
             "Reported Death": "",
             "Recovered Cases": "15",
-            "Active Cases": "690"
+            "Active Cases": "690",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Brazil",
             "Confirmed Cases": "647",
             "Reported Death": "7",
             "Recovered Cases": "2",
-            "Active Cases": "638"
+            "Active Cases": "638",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Ireland",
             "Confirmed Cases": "557",
             "Reported Death": "3",
             "Recovered Cases": "5",
-            "Active Cases": "549"
+            "Active Cases": "549",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Luxembourg",
             "Confirmed Cases": "484",
             "Reported Death": "4",
             "Recovered Cases": "6",
-            "Active Cases": "474"
+            "Active Cases": "474",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Pakistan",
             "Confirmed Cases": "467",
             "Reported Death": "3",
             "Recovered Cases": "13",
-            "Active Cases": "451"
+            "Active Cases": "451",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Greece",
             "Confirmed Cases": "464",
             "Reported Death": "6",
             "Recovered Cases": "19",
-            "Active Cases": "439"
+            "Active Cases": "439",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Qatar",
             "Confirmed Cases": "460",
             "Reported Death": "",
             "Recovered Cases": "10",
-            "Active Cases": "450"
+            "Active Cases": "450",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Finland",
             "Confirmed Cases": "430",
             "Reported Death": "",
             "Recovered Cases": "10",
-            "Active Cases": "420"
+            "Active Cases": "420",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Iceland",
             "Confirmed Cases": "409",
             "Reported Death": "",
             "Recovered Cases": "5",
-            "Active Cases": "404"
+            "Active Cases": "404",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Singapore",
             "Confirmed Cases": "385",
             "Reported Death": "",
             "Recovered Cases": "124",
-            "Active Cases": "261"
+            "Active Cases": "261",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Poland",
             "Confirmed Cases": "378",
             "Reported Death": "6",
             "Recovered Cases": "13",
-            "Active Cases": "359"
+            "Active Cases": "359",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Indonesia",
             "Confirmed Cases": "369",
             "Reported Death": "32",
             "Recovered Cases": "17",
-            "Active Cases": "320"
+            "Active Cases": "320",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Turkey",
             "Confirmed Cases": "359",
             "Reported Death": "4",
             "Recovered Cases": "",
-            "Active Cases": "355"
+            "Active Cases": "355",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Chile",
             "Confirmed Cases": "342",
             "Reported Death": "",
             "Recovered Cases": "",
-            "Active Cases": "342"
+            "Active Cases": "342",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Thailand",
             "Confirmed Cases": "322",
             "Reported Death": "1",
             "Recovered Cases": "42",
-            "Active Cases": "279"
+            "Active Cases": "279",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Slovenia",
             "Confirmed Cases": "319",
             "Reported Death": "1",
             "Recovered Cases": "",
-            "Active Cases": "318"
+            "Active Cases": "318",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Romania",
             "Confirmed Cases": "308",
             "Reported Death": "",
             "Recovered Cases": "31",
-            "Active Cases": "277"
+            "Active Cases": "277",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Bahrain",
             "Confirmed Cases": "284",
             "Reported Death": "1",
             "Recovered Cases": "110",
-            "Active Cases": "173"
+            "Active Cases": "173",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Estonia",
             "Confirmed Cases": "283",
             "Reported Death": "",
             "Recovered Cases": "1",
-            "Active Cases": "282"
+            "Active Cases": "282",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Saudi Arabia",
             "Confirmed Cases": "274",
             "Reported Death": "",
             "Recovered Cases": "8",
-            "Active Cases": "266"
+            "Active Cases": "266",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Ecuador",
             "Confirmed Cases": "260",
             "Reported Death": "4",
             "Recovered Cases": "1",
-            "Active Cases": "255"
+            "Active Cases": "255",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Egypt",
             "Confirmed Cases": "256",
             "Reported Death": "7",
             "Recovered Cases": "42",
-            "Active Cases": "207"
+            "Active Cases": "207",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Hong Kong",
             "Confirmed Cases": "256",
             "Reported Death": "4",
             "Recovered Cases": "98",
-            "Active Cases": "154"
+            "Active Cases": "154",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Peru",
             "Confirmed Cases": "234",
             "Reported Death": "3",
             "Recovered Cases": "1",
-            "Active Cases": "230"
+            "Active Cases": "230",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Philippines",
             "Confirmed Cases": "230",
             "Reported Death": "18",
             "Recovered Cases": "8",
-            "Active Cases": "204"
+            "Active Cases": "204",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "India",
             "Confirmed Cases": "223",
             "Reported Death": "5",
             "Recovered Cases": "23",
-            "Active Cases": "195"
+            "Active Cases": "195",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "South Africa",
             "Confirmed Cases": "202",
             "Reported Death": "",
             "Recovered Cases": "",
-            "Active Cases": "202"
+            "Active Cases": "202",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Russia",
             "Confirmed Cases": "199",
             "Reported Death": "1",
             "Recovered Cases": "9",
-            "Active Cases": "189"
+            "Active Cases": "189",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Iraq",
             "Confirmed Cases": "192",
             "Reported Death": "13",
             "Recovered Cases": "49",
-            "Active Cases": "130"
+            "Active Cases": "130",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Mexico",
             "Confirmed Cases": "164",
             "Reported Death": "1",
             "Recovered Cases": "4",
-            "Active Cases": "159"
+            "Active Cases": "159",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Lebanon",
             "Confirmed Cases": "163",
             "Reported Death": "4",
             "Recovered Cases": "4",
-            "Active Cases": "155"
+            "Active Cases": "155",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Kuwait",
             "Confirmed Cases": "159",
             "Reported Death": "",
             "Recovered Cases": "22",
-            "Active Cases": "137"
+            "Active Cases": "137",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "San Marino",
             "Confirmed Cases": "144",
             "Reported Death": "14",
             "Recovered Cases": "4",
-            "Active Cases": "126"
+            "Active Cases": "126",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "UAE",
             "Confirmed Cases": "140",
             "Reported Death": "",
             "Recovered Cases": "31",
-            "Active Cases": "109"
+            "Active Cases": "109",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Panama",
             "Confirmed Cases": "137",
             "Reported Death": "1",
             "Recovered Cases": "1",
-            "Active Cases": "135"
+            "Active Cases": "135",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Armenia",
             "Confirmed Cases": "136",
             "Reported Death": "",
             "Recovered Cases": "1",
-            "Active Cases": "135"
+            "Active Cases": "135",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Taiwan",
             "Confirmed Cases": "135",
             "Reported Death": "2",
             "Recovered Cases": "28",
-            "Active Cases": "105"
+            "Active Cases": "105",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Argentina",
             "Confirmed Cases": "128",
             "Reported Death": "3",
             "Recovered Cases": "3",
-            "Active Cases": "122"
+            "Active Cases": "122",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Colombia",
             "Confirmed Cases": "128",
             "Reported Death": "",
             "Recovered Cases": "1",
-            "Active Cases": "127"
+            "Active Cases": "127",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Slovakia",
             "Confirmed Cases": "124",
             "Reported Death": "",
             "Recovered Cases": "",
-            "Active Cases": "124"
+            "Active Cases": "124",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Serbia",
             "Confirmed Cases": "118",
             "Reported Death": "",
             "Recovered Cases": "2",
-            "Active Cases": "116"
+            "Active Cases": "116",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Croatia",
             "Confirmed Cases": "113",
             "Reported Death": "1",
             "Recovered Cases": "5",
-            "Active Cases": "107"
+            "Active Cases": "107",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Bulgaria",
             "Confirmed Cases": "112",
             "Reported Death": "3",
             "Recovered Cases": "1",
-            "Active Cases": "108"
+            "Active Cases": "108",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Latvia",
             "Confirmed Cases": "111",
             "Reported Death": "",
             "Recovered Cases": "1",
-            "Active Cases": "110"
+            "Active Cases": "110",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Uruguay",
             "Confirmed Cases": "94",
             "Reported Death": "",
             "Recovered Cases": "",
-            "Active Cases": "94"
+            "Active Cases": "94",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Algeria",
             "Confirmed Cases": "90",
             "Reported Death": "10",
             "Recovered Cases": "32",
-            "Active Cases": "48"
+            "Active Cases": "48",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Costa Rica",
             "Confirmed Cases": "89",
             "Reported Death": "2",
             "Recovered Cases": "",
-            "Active Cases": "87"
+            "Active Cases": "87",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Vietnam",
             "Confirmed Cases": "87",
             "Reported Death": "",
             "Recovered Cases": "16",
-            "Active Cases": "71"
+            "Active Cases": "71",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Hungary",
             "Confirmed Cases": "85",
             "Reported Death": "3",
             "Recovered Cases": "7",
-            "Active Cases": "75"
+            "Active Cases": "75",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Faeroe Islands",
             "Confirmed Cases": "80",
             "Reported Death": "",
             "Recovered Cases": "3",
-            "Active Cases": "77"
+            "Active Cases": "77",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Andorra",
             "Confirmed Cases": "75",
             "Reported Death": "",
             "Recovered Cases": "1",
-            "Active Cases": "74"
+            "Active Cases": "74",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Brunei",
             "Confirmed Cases": "73",
             "Reported Death": "",
             "Recovered Cases": "1",
-            "Active Cases": "72"
+            "Active Cases": "72",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Albania",
             "Confirmed Cases": "70",
             "Reported Death": "2",
             "Recovered Cases": "",
-            "Active Cases": "68"
+            "Active Cases": "68",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Belarus",
             "Confirmed Cases": "69",
             "Reported Death": "",
             "Recovered Cases": "15",
-            "Active Cases": "54"
+            "Active Cases": "54",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Jordan",
             "Confirmed Cases": "69",
             "Reported Death": "",
             "Recovered Cases": "1",
-            "Active Cases": "68"
+            "Active Cases": "68",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Bosnia and Herzegovina",
             "Confirmed Cases": "69",
             "Reported Death": "",
             "Recovered Cases": "2",
-            "Active Cases": "67"
+            "Active Cases": "67",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "North Macedonia",
             "Confirmed Cases": "67",
             "Reported Death": "",
             "Recovered Cases": "1",
-            "Active Cases": "66"
+            "Active Cases": "66",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Cyprus",
             "Confirmed Cases": "67",
             "Reported Death": "",
             "Recovered Cases": "",
-            "Active Cases": "67"
+            "Active Cases": "67",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Morocco",
             "Confirmed Cases": "66",
             "Reported Death": "3",
             "Recovered Cases": "2",
-            "Active Cases": "61"
+            "Active Cases": "61",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Sri Lanka",
             "Confirmed Cases": "66",
             "Reported Death": "",
             "Recovered Cases": "3",
-            "Active Cases": "63"
+            "Active Cases": "63",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Malta",
             "Confirmed Cases": "64",
             "Reported Death": "",
             "Recovered Cases": "2",
-            "Active Cases": "62"
+            "Active Cases": "62",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Tunisia",
             "Confirmed Cases": "54",
             "Reported Death": "1",
             "Recovered Cases": "1",
-            "Active Cases": "52"
+            "Active Cases": "52",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Moldova",
             "Confirmed Cases": "49",
             "Reported Death": "1",
             "Recovered Cases": "1",
-            "Active Cases": "47"
+            "Active Cases": "47",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Kazakhstan",
             "Confirmed Cases": "49",
             "Reported Death": "",
             "Recovered Cases": "",
-            "Active Cases": "49"
+            "Active Cases": "49",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Lithuania",
             "Confirmed Cases": "48",
             "Reported Death": "",
             "Recovered Cases": "1",
-            "Active Cases": "47"
+            "Active Cases": "47",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Oman",
             "Confirmed Cases": "48",
             "Reported Death": "",
             "Recovered Cases": "13",
-            "Active Cases": "35"
+            "Active Cases": "35",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Palestine",
             "Confirmed Cases": "48",
             "Reported Death": "",
             "Recovered Cases": "17",
-            "Active Cases": "31"
+            "Active Cases": "31",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Cambodia",
             "Confirmed Cases": "47",
             "Reported Death": "",
             "Recovered Cases": "1",
-            "Active Cases": "46"
+            "Active Cases": "46",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Guadeloupe",
             "Confirmed Cases": "45",
             "Reported Death": "",
             "Recovered Cases": "",
-            "Active Cases": "45"
+            "Active Cases": "45",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Azerbaijan",
             "Confirmed Cases": "44",
             "Reported Death": "1",
             "Recovered Cases": "7",
-            "Active Cases": "36"
+            "Active Cases": "36",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Georgia",
             "Confirmed Cases": "43",
             "Reported Death": "",
             "Recovered Cases": "1",
-            "Active Cases": "42"
+            "Active Cases": "42",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Venezuela",
             "Confirmed Cases": "42",
             "Reported Death": "",
             "Recovered Cases": "",
-            "Active Cases": "42"
+            "Active Cases": "42",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Burkina Faso",
             "Confirmed Cases": "40",
             "Reported Death": "1",
             "Recovered Cases": "4",
-            "Active Cases": "35"
+            "Active Cases": "35",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "New Zealand",
             "Confirmed Cases": "39",
             "Reported Death": "",
             "Recovered Cases": "",
-            "Active Cases": "39"
+            "Active Cases": "39",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Senegal",
             "Confirmed Cases": "36",
             "Reported Death": "",
             "Recovered Cases": "2",
-            "Active Cases": "34"
+            "Active Cases": "34",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Dominican Republic",
             "Confirmed Cases": "34",
             "Reported Death": "2",
             "Recovered Cases": "",
-            "Active Cases": "32"
+            "Active Cases": "32",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Uzbekistan",
             "Confirmed Cases": "33",
             "Reported Death": "",
             "Recovered Cases": "",
-            "Active Cases": "33"
+            "Active Cases": "33",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Martinique",
             "Confirmed Cases": "32",
             "Reported Death": "1",
             "Recovered Cases": "",
-            "Active Cases": "31"
+            "Active Cases": "31",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Liechtenstein",
             "Confirmed Cases": "28",
             "Reported Death": "",
             "Recovered Cases": "",
-            "Active Cases": "28"
+            "Active Cases": "28",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Réunion",
             "Confirmed Cases": "28",
             "Reported Death": "",
             "Recovered Cases": "",
-            "Active Cases": "28"
+            "Active Cases": "28",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Ukraine",
             "Confirmed Cases": "26",
             "Reported Death": "3",
             "Recovered Cases": "1",
-            "Active Cases": "22"
+            "Active Cases": "22",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Afghanistan",
             "Confirmed Cases": "24",
             "Reported Death": "",
             "Recovered Cases": "1",
-            "Active Cases": "23"
+            "Active Cases": "23",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Honduras",
             "Confirmed Cases": "24",
             "Reported Death": "",
             "Recovered Cases": "",
-            "Active Cases": "24"
+            "Active Cases": "24",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Bangladesh",
             "Confirmed Cases": "20",
             "Reported Death": "1",
             "Recovered Cases": "3",
-            "Active Cases": "16"
+            "Active Cases": "16",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Cameroon",
             "Confirmed Cases": "20",
             "Reported Death": "",
             "Recovered Cases": "2",
-            "Active Cases": "18"
+            "Active Cases": "18",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "DRC",
             "Confirmed Cases": "18",
             "Reported Death": "",
             "Recovered Cases": "",
-            "Active Cases": "18"
+            "Active Cases": "18",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Macao",
             "Confirmed Cases": "17",
             "Reported Death": "",
             "Recovered Cases": "10",
-            "Active Cases": "7"
+            "Active Cases": "7",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Bolivia",
             "Confirmed Cases": "17",
             "Reported Death": "",
             "Recovered Cases": "",
-            "Active Cases": "17"
+            "Active Cases": "17",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Cuba",
             "Confirmed Cases": "16",
             "Reported Death": "1",
             "Recovered Cases": "",
-            "Active Cases": "15"
+            "Active Cases": "15",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Jamaica",
             "Confirmed Cases": "16",
             "Reported Death": "1",
             "Recovered Cases": "2",
-            "Active Cases": "13"
+            "Active Cases": "13",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Ghana",
             "Confirmed Cases": "16",
             "Reported Death": "",
             "Recovered Cases": "",
-            "Active Cases": "16"
+            "Active Cases": "16",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "French Guiana",
             "Confirmed Cases": "15",
             "Reported Death": "",
             "Recovered Cases": "",
-            "Active Cases": "15"
+            "Active Cases": "15",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Guam",
             "Confirmed Cases": "14",
             "Reported Death": "",
             "Recovered Cases": "",
-            "Active Cases": "14"
+            "Active Cases": "14",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Maldives",
             "Confirmed Cases": "13",
             "Reported Death": "",
             "Recovered Cases": "",
-            "Active Cases": "13"
+            "Active Cases": "13",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Montenegro",
             "Confirmed Cases": "13",
             "Reported Death": "",
             "Recovered Cases": "",
-            "Active Cases": "13"
+            "Active Cases": "13",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Paraguay",
             "Confirmed Cases": "13",
             "Reported Death": "",
             "Recovered Cases": "",
-            "Active Cases": "13"
+            "Active Cases": "13",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Nigeria",
             "Confirmed Cases": "12",
             "Reported Death": "",
             "Recovered Cases": "1",
-            "Active Cases": "11"
+            "Active Cases": "11",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Mauritius",
             "Confirmed Cases": "12",
             "Reported Death": "",
             "Recovered Cases": "",
-            "Active Cases": "12"
+            "Active Cases": "12",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Monaco",
             "Confirmed Cases": "11",
             "Reported Death": "",
             "Recovered Cases": "",
-            "Active Cases": "11"
+            "Active Cases": "11",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Channel Islands",
             "Confirmed Cases": "11",
             "Reported Death": "",
             "Recovered Cases": "",
-            "Active Cases": "11"
+            "Active Cases": "11",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "French Polynesia",
             "Confirmed Cases": "11",
             "Reported Death": "",
             "Recovered Cases": "",
-            "Active Cases": "11"
+            "Active Cases": "11",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Rwanda",
             "Confirmed Cases": "11",
             "Reported Death": "",
             "Recovered Cases": "",
-            "Active Cases": "11"
+            "Active Cases": "11",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Gibraltar",
             "Confirmed Cases": "10",
             "Reported Death": "",
             "Recovered Cases": "2",
-            "Active Cases": "8"
+            "Active Cases": "8",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Guatemala",
             "Confirmed Cases": "9",
             "Reported Death": "1",
             "Recovered Cases": "",
-            "Active Cases": "8"
+            "Active Cases": "8",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Ivory Coast",
             "Confirmed Cases": "9",
             "Reported Death": "",
             "Recovered Cases": "1",
-            "Active Cases": "8"
+            "Active Cases": "8",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Ethiopia",
             "Confirmed Cases": "9",
             "Reported Death": "",
             "Recovered Cases": "",
-            "Active Cases": "9"
+            "Active Cases": "9",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Togo",
             "Confirmed Cases": "9",
             "Reported Death": "",
             "Recovered Cases": "",
-            "Active Cases": "9"
+            "Active Cases": "9",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Trinidad and Tobago",
             "Confirmed Cases": "9",
             "Reported Death": "",
             "Recovered Cases": "",
-            "Active Cases": "9"
+            "Active Cases": "9",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Puerto Rico",
             "Confirmed Cases": "8",
             "Reported Death": "",
             "Recovered Cases": "",
-            "Active Cases": "8"
+            "Active Cases": "8",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Kenya",
             "Confirmed Cases": "7",
             "Reported Death": "",
             "Recovered Cases": "",
-            "Active Cases": "7"
+            "Active Cases": "7",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Seychelles",
             "Confirmed Cases": "7",
             "Reported Death": "",
             "Recovered Cases": "",
-            "Active Cases": "7"
+            "Active Cases": "7",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Equatorial Guinea",
             "Confirmed Cases": "6",
             "Reported Death": "",
             "Recovered Cases": "",
-            "Active Cases": "6"
+            "Active Cases": "6",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Kyrgyzstan",
             "Confirmed Cases": "6",
             "Reported Death": "",
             "Recovered Cases": "",
-            "Active Cases": "6"
+            "Active Cases": "6",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Mongolia",
             "Confirmed Cases": "6",
             "Reported Death": "",
             "Recovered Cases": "",
-            "Active Cases": "6"
+            "Active Cases": "6",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Tanzania",
             "Confirmed Cases": "6",
             "Reported Death": "",
             "Recovered Cases": "",
-            "Active Cases": "6"
+            "Active Cases": "6",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Guyana",
             "Confirmed Cases": "5",
             "Reported Death": "1",
             "Recovered Cases": "",
-            "Active Cases": "4"
+            "Active Cases": "4",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Aruba",
             "Confirmed Cases": "5",
             "Reported Death": "",
             "Recovered Cases": "1",
-            "Active Cases": "4"
+            "Active Cases": "4",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Barbados",
             "Confirmed Cases": "5",
             "Reported Death": "",
             "Recovered Cases": "",
-            "Active Cases": "5"
+            "Active Cases": "5",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Mayotte",
             "Confirmed Cases": "4",
             "Reported Death": "",
             "Recovered Cases": "",
-            "Active Cases": "4"
+            "Active Cases": "4",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Suriname",
             "Confirmed Cases": "4",
             "Reported Death": "",
             "Recovered Cases": "",
-            "Active Cases": "4"
+            "Active Cases": "4",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Cayman Islands",
             "Confirmed Cases": "3",
             "Reported Death": "1",
             "Recovered Cases": "",
-            "Active Cases": "2"
+            "Active Cases": "2",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Curaçao",
             "Confirmed Cases": "3",
             "Reported Death": "1",
             "Recovered Cases": "",
-            "Active Cases": "2"
+            "Active Cases": "2",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Gabon",
             "Confirmed Cases": "3",
             "Reported Death": "1",
             "Recovered Cases": "",
-            "Active Cases": "2"
+            "Active Cases": "2",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Bahamas",
             "Confirmed Cases": "3",
             "Reported Death": "",
             "Recovered Cases": "",
-            "Active Cases": "3"
+            "Active Cases": "3",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Congo",
             "Confirmed Cases": "3",
             "Reported Death": "",
             "Recovered Cases": "",
-            "Active Cases": "3"
+            "Active Cases": "3",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Namibia",
             "Confirmed Cases": "3",
             "Reported Death": "",
             "Recovered Cases": "",
-            "Active Cases": "3"
+            "Active Cases": "3",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "St. Barth",
             "Confirmed Cases": "3",
             "Reported Death": "",
             "Recovered Cases": "",
-            "Active Cases": "3"
+            "Active Cases": "3",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Saint Martin",
             "Confirmed Cases": "3",
             "Reported Death": "",
             "Recovered Cases": "",
-            "Active Cases": "3"
+            "Active Cases": "3",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "U.S. Virgin Islands",
             "Confirmed Cases": "3",
             "Reported Death": "",
             "Recovered Cases": "",
-            "Active Cases": "3"
+            "Active Cases": "3",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Sudan",
             "Confirmed Cases": "2",
             "Reported Death": "1",
             "Recovered Cases": "",
-            "Active Cases": "1"
+            "Active Cases": "1",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Benin",
             "Confirmed Cases": "2",
             "Reported Death": "",
             "Recovered Cases": "",
-            "Active Cases": "2"
+            "Active Cases": "2",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Bermuda",
             "Confirmed Cases": "2",
             "Reported Death": "",
             "Recovered Cases": "",
-            "Active Cases": "2"
+            "Active Cases": "2",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Bhutan",
             "Confirmed Cases": "2",
             "Reported Death": "",
             "Recovered Cases": "",
-            "Active Cases": "2"
+            "Active Cases": "2",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "CAR",
             "Confirmed Cases": "2",
             "Reported Death": "",
             "Recovered Cases": "",
-            "Active Cases": "2"
+            "Active Cases": "2",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Greenland",
             "Confirmed Cases": "2",
             "Reported Death": "",
             "Recovered Cases": "",
-            "Active Cases": "2"
+            "Active Cases": "2",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Haiti",
             "Confirmed Cases": "2",
             "Reported Death": "",
             "Recovered Cases": "",
-            "Active Cases": "2"
+            "Active Cases": "2",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Liberia",
             "Confirmed Cases": "2",
             "Reported Death": "",
             "Recovered Cases": "",
-            "Active Cases": "2"
+            "Active Cases": "2",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Mauritania",
             "Confirmed Cases": "2",
             "Reported Death": "",
             "Recovered Cases": "",
-            "Active Cases": "2"
+            "Active Cases": "2",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "New Caledonia",
             "Confirmed Cases": "2",
             "Reported Death": "",
             "Recovered Cases": "",
-            "Active Cases": "2"
+            "Active Cases": "2",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Saint Lucia",
             "Confirmed Cases": "2",
             "Reported Death": "",
             "Recovered Cases": "",
-            "Active Cases": "2"
+            "Active Cases": "2",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Zambia",
             "Confirmed Cases": "2",
             "Reported Death": "",
             "Recovered Cases": "",
-            "Active Cases": "2"
+            "Active Cases": "2",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Nepal",
             "Confirmed Cases": "1",
             "Reported Death": "",
             "Recovered Cases": "1",
-            "Active Cases": "0"
+            "Active Cases": "0",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Angola",
             "Confirmed Cases": "1",
             "Reported Death": "",
             "Recovered Cases": "",
-            "Active Cases": "1"
+            "Active Cases": "1",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Antigua and Barbuda",
             "Confirmed Cases": "1",
             "Reported Death": "",
             "Recovered Cases": "",
-            "Active Cases": "1"
+            "Active Cases": "1",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Cabo Verde",
             "Confirmed Cases": "1",
             "Reported Death": "",
             "Recovered Cases": "",
-            "Active Cases": "1"
+            "Active Cases": "1",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Chad",
             "Confirmed Cases": "1",
             "Reported Death": "",
             "Recovered Cases": "",
-            "Active Cases": "1"
+            "Active Cases": "1",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Djibouti",
             "Confirmed Cases": "1",
             "Reported Death": "",
             "Recovered Cases": "",
-            "Active Cases": "1"
+            "Active Cases": "1",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "El Salvador",
             "Confirmed Cases": "1",
             "Reported Death": "",
             "Recovered Cases": "",
-            "Active Cases": "1"
+            "Active Cases": "1",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Fiji",
             "Confirmed Cases": "1",
             "Reported Death": "",
             "Recovered Cases": "",
-            "Active Cases": "1"
+            "Active Cases": "1",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Gambia",
             "Confirmed Cases": "1",
             "Reported Death": "",
             "Recovered Cases": "",
-            "Active Cases": "1"
+            "Active Cases": "1",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Guinea",
             "Confirmed Cases": "1",
             "Reported Death": "",
             "Recovered Cases": "",
-            "Active Cases": "1"
+            "Active Cases": "1",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Vatican City",
             "Confirmed Cases": "1",
             "Reported Death": "",
             "Recovered Cases": "",
-            "Active Cases": "1"
+            "Active Cases": "1",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Isle of Man",
             "Confirmed Cases": "1",
             "Reported Death": "",
             "Recovered Cases": "",
-            "Active Cases": "1"
+            "Active Cases": "1",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Montserrat",
             "Confirmed Cases": "1",
             "Reported Death": "",
             "Recovered Cases": "",
-            "Active Cases": "1"
+            "Active Cases": "1",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Nicaragua",
             "Confirmed Cases": "1",
             "Reported Death": "",
             "Recovered Cases": "",
-            "Active Cases": "1"
+            "Active Cases": "1",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Niger",
             "Confirmed Cases": "1",
             "Reported Death": "",
             "Recovered Cases": "",
-            "Active Cases": "1"
+            "Active Cases": "1",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "St. Vincent Grenadines",
             "Confirmed Cases": "1",
             "Reported Death": "",
             "Recovered Cases": "",
-            "Active Cases": "1"
+            "Active Cases": "1",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Sint Maarten",
             "Confirmed Cases": "1",
             "Reported Death": "",
             "Recovered Cases": "",
-            "Active Cases": "1"
+            "Active Cases": "1",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Somalia",
             "Confirmed Cases": "1",
             "Reported Death": "",
             "Recovered Cases": "",
-            "Active Cases": "1"
+            "Active Cases": "1",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Eswatini",
             "Confirmed Cases": "1",
             "Reported Death": "",
             "Recovered Cases": "",
-            "Active Cases": "1"
+            "Active Cases": "1",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         },
         {
             "Country Name": "Total:",
             "Confirmed Cases": "252,817",
             "Reported Death": "10,405",
             "Recovered Cases": "89,061",
-            "Active Cases": "153,351"
+            "Active Cases": "153,351",
+            "Date": "20-03-2020",
+            "Time": "14:50"
         }
     ]
 ]
