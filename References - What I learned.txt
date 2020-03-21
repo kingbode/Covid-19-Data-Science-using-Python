@@ -3,6 +3,9 @@ Here I will list what I learned and reference for everything I learned and solut
 - for DateTime Class
   https://www.youtube.com/watch?v=RjMbCUpvIgw&t=185s
  
+ - Remove a prefix from a string [duplicate]
+  https://stackoverflow.com/questions/16891340/remove-a-prefix-from-a-string
+ 
 - for JSON Class
   https://www.youtube.com/watch?v=9N6a-VLBa2I&t=298s
   https://www.youtube.com/watch?v=pTT7HMqDnJw&t=199s
@@ -39,5 +42,7 @@ Here I will list what I learned and reference for everything I learned and solut
   https://www.powercms.in/blog/how-get-json-data-remote-url-python-script
   https://stackoverflow.com/questions/12965203/how-to-get-json-from-webpage-into-python-script
 
-- Remove a prefix from a string [duplicate]
-  https://stackoverflow.com/questions/16891340/remove-a-prefix-from-a-string
+- How to concatenate multiple CSV files in one single CSV with Python
+  https://www.youtube.com/watch?v=KoRT-v0SzMs
+  https://www.youtube.com/watch?v=vmEHCJofslg
+
