@@ -19,7 +19,12 @@ import os
 import errno
 from __Functions__ import _Json_to_CSV_ , _save_Data_to_JSON , _get_WebPage_Source_
 
-folderDateTime = datetime.datetime.today().date().strftime("%d-%m-%Y ") + datetime.datetime.today().time().strftime("%H-%M")
+
+date_ = datetime.datetime.today().date().strftime("%d-%m-%Y")
+time_ = datetime.datetime.today().time().strftime("%H-%M")
+
+folderDateTime = date_ + ' ' + time_
+
 
 fullPath = 'C:/WebScraping-Covid-19/Covid-19 Data - ' + str(folderDateTime) + '/'
 
@@ -47,7 +52,11 @@ print('============================================================')
 
 html_source = _get_WebPage_Source_(URL,webPage_filename)
 
-print('Job is Done... Now Data is being extracted .... please wait')
+print('Job is Done... WebPage for above site is saved in this folder\\file '+ webPage_filename)
+print('============================================================')
+
+print('Now Data is being extracted .... please wait')
+
 
 
 
@@ -82,7 +91,14 @@ for i in range (1 , len(Data_Set_tr_Tags ) -1):
     if len(Data_Set_td_Tags) == 9: #len(Data_Set_tr_Tags[i-1].findAll('td')):
         # check_Element = {'Country Name': Data_Set_td_Tags[0].text, 'Confirmed Cases': Data_Set_td_Tags[1].text,'Reported Death': Data_Set_td_Tags[3].text, 'Recovered Cases': Data_Set_td_Tags[5].text}
         # if  check_Element not in covid_19_Data_2 :
-        covid_19_Data.append({'Country Name': Data_Set_td_Tags[0].text.strip(), 'Confirmed Cases': Data_Set_td_Tags[1].text.strip(),'Reported Death': Data_Set_td_Tags[3].text.strip(), 'Recovered Cases': Data_Set_td_Tags[5].text.strip() , 'Active Cases': Data_Set_td_Tags[6].text.strip()})
+        covid_19_Data.append({'Country Name': Data_Set_td_Tags[0].text.strip(),
+                              'Confirmed Cases': Data_Set_td_Tags[1].text.strip(),
+                              'Reported Death': Data_Set_td_Tags[3].text.strip(),
+                              'Recovered Cases': Data_Set_td_Tags[5].text.strip(),
+                              'Active Cases': Data_Set_td_Tags[6].text.strip(),
+                              'Date' : date_,
+                              'Time' : time_})
+
         Check_if_reached_Total = Data_Set_td_Tags[0].text.strip()
 
 
@@ -94,6 +110,10 @@ _save_Data_to_JSON(JSON_Data_filename , covid_19_Data )
 
 _Json_to_CSV_(JSON_Data_filename)
 
-print('Data has been extracted and saved in json and csv file formats ....')
+print('Job is Done... Data has been extracted and saved in json and csv file formats in below folder\\files ....')
+
+print(JSON_Data_filename)
+print(JSON_Data_filename.strip('.json') + '.csv')
+print('============================================================')
 
 # ===================================================================
