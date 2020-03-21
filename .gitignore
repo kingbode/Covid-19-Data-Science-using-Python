@@ -123,3 +123,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+Covid-19/__add_DateTime_to_JSON__.py
