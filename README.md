@@ -39,10 +39,17 @@ V2.4:
 - Adding messgaes that show the progress of the code.
 - saving data in csv file format as well.
 - updating all previous data in json file format to be in csv file format as well, this is to prepare for merging data and analysis in later updates.
-- movung all functions to __Functions__.py class to make Main easy to read.
+- moving all functions to __Functions__.py class to make Main easy to read.
 - added functions description in __Functions__.py class
 
 - added "References - What I learned.txt" file
+
+=====================================
+V2.5:
+
+- Added date and time fields in json and csv files.
+- Now saving all future data with date and tiem fields.
+- Adding function to aggreagte all CSV files into one file 'c:\WebScraping-Covid-19\Aggregated_Data.csv'.
 
 =====================================
 Working on below:
