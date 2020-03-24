@@ -81,15 +81,16 @@ Check_if_reached_Total = ''
 
 for i in range (1 , len(Data_Set_tr_Tags ) -1):
     # used for debug
-    #if i==183:
-    #   print(i)
+    # if i==187:
+       # print(i)
     if Check_if_reached_Total == 'Total:':
         pass
+        # print('I reached total now')
         # this check is to avoid reading more data that are hidden on the webpage and stores previuos reads !!! , may be used by the website
         break
     Data_Set_td_Tags = Data_Set_tr_Tags[i].findAll('td')
     #print(i, Data_Set_td_Tags[0].text,Data_Set_td_Tags[1].text,Data_Set_td_Tags[3].text,Data_Set_td_Tags[5].text)
-    if len(Data_Set_td_Tags) == 9: #len(Data_Set_tr_Tags[i-1].findAll('td')):
+    if len(Data_Set_td_Tags) >= 8: #len(Data_Set_tr_Tags[i-1].findAll('td')):  # to avoid shorter list of data than length of covid_19_Data
         covid_19_Data.append({'Country Name': Data_Set_td_Tags[0].text.strip(),
                               'Confirmed Cases': Data_Set_td_Tags[1].text.strip(),
                               'Reported Death': Data_Set_td_Tags[3].text.strip(),
