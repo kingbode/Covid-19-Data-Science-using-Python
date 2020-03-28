@@ -15,6 +15,8 @@ from bs4 import BeautifulSoup
 import json
 import datetime
 
+from tqdm import tqdm
+
 import os
 import errno
 from __Functions__ import _Json_to_CSV_, _save_Data_to_JSON, _get_WebPage_Source_, _concatenate_CSV_, _get_filepaths
@@ -79,7 +81,7 @@ Data_Set_tr_Tags = soup.findAll('tr')
 
 Check_if_reached_Total = ''
 
-for i in range (1 , len(Data_Set_tr_Tags ) -1):
+for i in tqdm(range(1 , len(Data_Set_tr_Tags ) -1)):
     # used for debug
     # if i==187:
        # print(i)
@@ -106,9 +108,17 @@ for i in range (1 , len(Data_Set_tr_Tags ) -1):
 
 # ======================= To save data in json file  ===================
 
+
 _save_Data_to_JSON(JSON_Data_filename , covid_19_Data )
 
-_Json_to_CSV_(JSON_Data_filename)
+print('\n')
+
+# tqdm is a progress bar
+tqdm(_Json_to_CSV_(JSON_Data_filename))
+
+# _save_Data_to_JSON(JSON_Data_filename , covid_19_Data )
+
+# _Json_to_CSV_(JSON_Data_filename)
 
 print('Job is Done... Data has been extracted and saved in json and csv file formats in below folder\\files ....')
 
@@ -126,7 +136,7 @@ print('============================================================')
 CSV_file_list = []
 CSV_files = _get_filepaths('c:\WebScraping-Covid-19\Data\\')
 
-for i in range(0,len(CSV_files)-1):
+for i in tqdm(range(0,len(CSV_files)-1)):
     if CSV_files[i].endswith('.csv'):
         CSV_file_list.append(CSV_files[i])
 
