@@ -17,6 +17,7 @@ import errno
 import json
 import os
 import pandas
+from tqdm import tqdm
 
 from selenium import webdriver
 
