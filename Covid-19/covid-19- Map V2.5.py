@@ -93,15 +93,15 @@ for i in tqdm(range(1 , len(Data_Set_tr_Tags ) -1)):
     Data_Set_td_Tags = Data_Set_tr_Tags[i].findAll('td')
     #print(i, Data_Set_td_Tags[0].text,Data_Set_td_Tags[1].text,Data_Set_td_Tags[3].text,Data_Set_td_Tags[5].text)
     if len(Data_Set_td_Tags) >= 8: #len(Data_Set_tr_Tags[i-1].findAll('td')):  # to avoid shorter list of data than length of covid_19_Data
-        covid_19_Data.append({'Country Name': Data_Set_td_Tags[0].text.strip(),
-                              'Confirmed Cases': Data_Set_td_Tags[1].text.strip(),
-                              'Reported Death': Data_Set_td_Tags[3].text.strip(),
-                              'Recovered Cases': Data_Set_td_Tags[5].text.strip(),
-                              'Active Cases': Data_Set_td_Tags[6].text.strip(),
+        covid_19_Data.append({'Country Name': Data_Set_td_Tags[1].text.strip(),
+                              'Confirmed Cases': Data_Set_td_Tags[2].text.strip(),
+                              'Reported Death': Data_Set_td_Tags[4].text.strip(),
+                              'Recovered Cases': Data_Set_td_Tags[6].text.strip(),
+                              'Active Cases': Data_Set_td_Tags[7].text.strip(),
                               'Date' : date_,
                               'Time' : datetime.datetime.strptime(time_ , "%H-%M").time().strftime("%H:%M")})
 
-        Check_if_reached_Total = Data_Set_td_Tags[0].text.strip()
+        Check_if_reached_Total = Data_Set_td_Tags[1].text.strip()
 
 
 #=======================================================================
