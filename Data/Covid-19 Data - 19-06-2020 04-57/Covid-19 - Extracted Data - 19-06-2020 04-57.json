@@ -1,0 +1,2020 @@
+[
+    [
+        {
+            "Country Name": "World",
+            "Confirmed Cases": "8,577,196",
+            "Reported Death": "456,269",
+            "Recovered Cases": "4,530,260",
+            "Active Cases": "3,590,667",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "North America",
+            "Confirmed Cases": "2,617,021",
+            "Reported Death": "151,066",
+            "Recovered Cases": "1,156,244",
+            "Active Cases": "1,309,711",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Europe",
+            "Confirmed Cases": "2,268,136",
+            "Reported Death": "185,235",
+            "Recovered Cases": "1,219,133",
+            "Active Cases": "863,768",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "USA",
+            "Confirmed Cases": "2,263,651",
+            "Reported Death": "120,688",
+            "Recovered Cases": "930,994",
+            "Active Cases": "1,211,969",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Asia",
+            "Confirmed Cases": "1,775,383",
+            "Reported Death": "45,455",
+            "Recovered Cases": "1,114,563",
+            "Active Cases": "615,365",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "South America",
+            "Confirmed Cases": "1,628,253",
+            "Reported Death": "66,924",
+            "Recovered Cases": "902,856",
+            "Active Cases": "658,473",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Brazil",
+            "Confirmed Cases": "983,359",
+            "Reported Death": "47,869",
+            "Recovered Cases": "520,360",
+            "Active Cases": "415,130",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Russia",
+            "Confirmed Cases": "561,091",
+            "Reported Death": "7,660",
+            "Recovered Cases": "313,963",
+            "Active Cases": "239,468",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "India",
+            "Confirmed Cases": "381,091",
+            "Reported Death": "12,604",
+            "Recovered Cases": "205,182",
+            "Active Cases": "163,305",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "UK",
+            "Confirmed Cases": "300,469",
+            "Reported Death": "42,288",
+            "Recovered Cases": "N/A",
+            "Active Cases": "N/A",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Spain",
+            "Confirmed Cases": "292,348",
+            "Reported Death": "27,136",
+            "Recovered Cases": "N/A",
+            "Active Cases": "N/A",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Africa",
+            "Confirmed Cases": "278,677",
+            "Reported Death": "7,450",
+            "Recovered Cases": "128,347",
+            "Active Cases": "142,880",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Peru",
+            "Confirmed Cases": "244,388",
+            "Reported Death": "7,461",
+            "Recovered Cases": "131,190",
+            "Active Cases": "105,737",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Italy",
+            "Confirmed Cases": "238,159",
+            "Reported Death": "34,514",
+            "Recovered Cases": "180,544",
+            "Active Cases": "23,101",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Chile",
+            "Confirmed Cases": "225,103",
+            "Reported Death": "3,841",
+            "Recovered Cases": "186,441",
+            "Active Cases": "34,821",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Iran",
+            "Confirmed Cases": "197,647",
+            "Reported Death": "9,272",
+            "Recovered Cases": "156,991",
+            "Active Cases": "31,384",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Germany",
+            "Confirmed Cases": "190,126",
+            "Reported Death": "8,946",
+            "Recovered Cases": "174,100",
+            "Active Cases": "7,080",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Turkey",
+            "Confirmed Cases": "184,031",
+            "Reported Death": "4,882",
+            "Recovered Cases": "156,022",
+            "Active Cases": "23,127",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Mexico",
+            "Confirmed Cases": "165,455",
+            "Reported Death": "19,747",
+            "Recovered Cases": "123,095",
+            "Active Cases": "22,613",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Pakistan",
+            "Confirmed Cases": "160,118",
+            "Reported Death": "3,093",
+            "Recovered Cases": "59,215",
+            "Active Cases": "97,810",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "France",
+            "Confirmed Cases": "158,641",
+            "Reported Death": "29,603",
+            "Recovered Cases": "73,887",
+            "Active Cases": "55,151",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Saudi Arabia",
+            "Confirmed Cases": "145,991",
+            "Reported Death": "1,139",
+            "Recovered Cases": "93,915",
+            "Active Cases": "50,937",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Bangladesh",
+            "Confirmed Cases": "102,292",
+            "Reported Death": "1,343",
+            "Recovered Cases": "40,164",
+            "Active Cases": "60,785",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Canada",
+            "Confirmed Cases": "100,220",
+            "Reported Death": "8,300",
+            "Recovered Cases": "62,496",
+            "Active Cases": "29,424",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Qatar",
+            "Confirmed Cases": "84,441",
+            "Reported Death": "86",
+            "Recovered Cases": "63,642",
+            "Active Cases": "20,713",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "South Africa",
+            "Confirmed Cases": "83,890",
+            "Reported Death": "1,737",
+            "Recovered Cases": "44,920",
+            "Active Cases": "37,233",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "China",
+            "Confirmed Cases": "83,325",
+            "Reported Death": "4,634",
+            "Recovered Cases": "78,398",
+            "Active Cases": "293",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Belgium",
+            "Confirmed Cases": "60,348",
+            "Reported Death": "9,683",
+            "Recovered Cases": "16,724",
+            "Active Cases": "33,941",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Colombia",
+            "Confirmed Cases": "60,217",
+            "Reported Death": "1,950",
+            "Recovered Cases": "22,680",
+            "Active Cases": "35,587",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Belarus",
+            "Confirmed Cases": "56,657",
+            "Reported Death": "331",
+            "Recovered Cases": "34,023",
+            "Active Cases": "22,303",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Sweden",
+            "Confirmed Cases": "56,043",
+            "Reported Death": "5,053",
+            "Recovered Cases": "N/A",
+            "Active Cases": "N/A",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Egypt",
+            "Confirmed Cases": "50,437",
+            "Reported Death": "1,938",
+            "Recovered Cases": "13,528",
+            "Active Cases": "34,971",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Netherlands",
+            "Confirmed Cases": "49,319",
+            "Reported Death": "6,078",
+            "Recovered Cases": "N/A",
+            "Active Cases": "N/A",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Ecuador",
+            "Confirmed Cases": "49,097",
+            "Reported Death": "4,087",
+            "Recovered Cases": "24,123",
+            "Active Cases": "20,887",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "UAE",
+            "Confirmed Cases": "43,752",
+            "Reported Death": "298",
+            "Recovered Cases": "30,241",
+            "Active Cases": "13,213",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Indonesia",
+            "Confirmed Cases": "42,762",
+            "Reported Death": "2,339",
+            "Recovered Cases": "16,798",
+            "Active Cases": "23,625",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Singapore",
+            "Confirmed Cases": "41,473",
+            "Reported Death": "26",
+            "Recovered Cases": "32,712",
+            "Active Cases": "8,735",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Portugal",
+            "Confirmed Cases": "38,089",
+            "Reported Death": "1,524",
+            "Recovered Cases": "24,010",
+            "Active Cases": "12,555",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Kuwait",
+            "Confirmed Cases": "38,074",
+            "Reported Death": "308",
+            "Recovered Cases": "29,512",
+            "Active Cases": "8,254",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Argentina",
+            "Confirmed Cases": "37,510",
+            "Reported Death": "948",
+            "Recovered Cases": "10,721",
+            "Active Cases": "25,841",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Ukraine",
+            "Confirmed Cases": "34,063",
+            "Reported Death": "966",
+            "Recovered Cases": "15,447",
+            "Active Cases": "17,650",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Switzerland",
+            "Confirmed Cases": "31,200",
+            "Reported Death": "1,956",
+            "Recovered Cases": "28,900",
+            "Active Cases": "344",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Poland",
+            "Confirmed Cases": "31,015",
+            "Reported Death": "1,316",
+            "Recovered Cases": "15,317",
+            "Active Cases": "14,382",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Philippines",
+            "Confirmed Cases": "27,799",
+            "Reported Death": "1,116",
+            "Recovered Cases": "7,090",
+            "Active Cases": "19,593",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Afghanistan",
+            "Confirmed Cases": "27,532",
+            "Reported Death": "546",
+            "Recovered Cases": "7,660",
+            "Active Cases": "19,326",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Oman",
+            "Confirmed Cases": "26,818",
+            "Reported Death": "119",
+            "Recovered Cases": "13,264",
+            "Active Cases": "13,435",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Iraq",
+            "Confirmed Cases": "25,717",
+            "Reported Death": "856",
+            "Recovered Cases": "11,333",
+            "Active Cases": "13,528",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Ireland",
+            "Confirmed Cases": "25,355",
+            "Reported Death": "1,714",
+            "Recovered Cases": "22,698",
+            "Active Cases": "943",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Dominican Republic",
+            "Confirmed Cases": "24,645",
+            "Reported Death": "635",
+            "Recovered Cases": "14,293",
+            "Active Cases": "9,717",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Panama",
+            "Confirmed Cases": "23,351",
+            "Reported Death": "475",
+            "Recovered Cases": "13,782",
+            "Active Cases": "9,094",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Romania",
+            "Confirmed Cases": "23,080",
+            "Reported Death": "1,473",
+            "Recovered Cases": "16,308",
+            "Active Cases": "5,299",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Bolivia",
+            "Confirmed Cases": "20,685",
+            "Reported Death": "679",
+            "Recovered Cases": "4,002",
+            "Active Cases": "16,004",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Bahrain",
+            "Confirmed Cases": "20,430",
+            "Reported Death": "55",
+            "Recovered Cases": "14,696",
+            "Active Cases": "5,679",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Israel",
+            "Confirmed Cases": "20,036",
+            "Reported Death": "303",
+            "Recovered Cases": "15,518",
+            "Active Cases": "4,215",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Armenia",
+            "Confirmed Cases": "18,698",
+            "Reported Death": "309",
+            "Recovered Cases": "7,560",
+            "Active Cases": "10,829",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Nigeria",
+            "Confirmed Cases": "18,480",
+            "Reported Death": "475",
+            "Recovered Cases": "6,307",
+            "Active Cases": "11,698",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Japan",
+            "Confirmed Cases": "17,668",
+            "Reported Death": "935",
+            "Recovered Cases": "15,930",
+            "Active Cases": "803",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Austria",
+            "Confirmed Cases": "17,223",
+            "Reported Death": "688",
+            "Recovered Cases": "16,101",
+            "Active Cases": "434",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Kazakhstan",
+            "Confirmed Cases": "15,877",
+            "Reported Death": "100",
+            "Recovered Cases": "10,065",
+            "Active Cases": "5,712",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Moldova",
+            "Confirmed Cases": "13,106",
+            "Reported Death": "444",
+            "Recovered Cases": "7,252",
+            "Active Cases": "5,410",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Ghana",
+            "Confirmed Cases": "12,929",
+            "Reported Death": "66",
+            "Recovered Cases": "4,468",
+            "Active Cases": "8,395",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Serbia",
+            "Confirmed Cases": "12,616",
+            "Reported Death": "258",
+            "Recovered Cases": "11,511",
+            "Active Cases": "847",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Denmark",
+            "Confirmed Cases": "12,344",
+            "Reported Death": "600",
+            "Recovered Cases": "11,242",
+            "Active Cases": "502",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "S. Korea",
+            "Confirmed Cases": "12,306",
+            "Reported Death": "280",
+            "Recovered Cases": "10,835",
+            "Active Cases": "1,191",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Guatemala",
+            "Confirmed Cases": "11,868",
+            "Reported Death": "449",
+            "Recovered Cases": "2,290",
+            "Active Cases": "9,129",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Algeria",
+            "Confirmed Cases": "11,385",
+            "Reported Death": "811",
+            "Recovered Cases": "8,078",
+            "Active Cases": "2,496",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Azerbaijan",
+            "Confirmed Cases": "11,329",
+            "Reported Death": "139",
+            "Recovered Cases": "6,192",
+            "Active Cases": "4,998",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Honduras",
+            "Confirmed Cases": "10,739",
+            "Reported Death": "343",
+            "Recovered Cases": "1,179",
+            "Active Cases": "9,217",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Czechia",
+            "Confirmed Cases": "10,280",
+            "Reported Death": "334",
+            "Recovered Cases": "7,440",
+            "Active Cases": "2,506",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Cameroon",
+            "Confirmed Cases": "9,864",
+            "Reported Death": "276",
+            "Recovered Cases": "5,570",
+            "Active Cases": "4,018",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Morocco",
+            "Confirmed Cases": "9,074",
+            "Reported Death": "213",
+            "Recovered Cases": "8,041",
+            "Active Cases": "820",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Oceania",
+            "Confirmed Cases": "9,005",
+            "Reported Death": "124",
+            "Recovered Cases": "8,466",
+            "Active Cases": "415",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Norway",
+            "Confirmed Cases": "8,708",
+            "Reported Death": "244",
+            "Recovered Cases": "8,138",
+            "Active Cases": "326",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Malaysia",
+            "Confirmed Cases": "8,529",
+            "Reported Death": "121",
+            "Recovered Cases": "8,000",
+            "Active Cases": "408",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Sudan",
+            "Confirmed Cases": "8,020",
+            "Reported Death": "487",
+            "Recovered Cases": "2,966",
+            "Active Cases": "4,567",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Nepal",
+            "Confirmed Cases": "7,848",
+            "Reported Death": "22",
+            "Recovered Cases": "1,186",
+            "Active Cases": "6,640",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Australia",
+            "Confirmed Cases": "7,391",
+            "Reported Death": "102",
+            "Recovered Cases": "6,877",
+            "Active Cases": "412",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Finland",
+            "Confirmed Cases": "7,119",
+            "Reported Death": "326",
+            "Recovered Cases": "6,200",
+            "Active Cases": "593",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Ivory Coast",
+            "Confirmed Cases": "6,444",
+            "Reported Death": "49",
+            "Recovered Cases": "2,863",
+            "Active Cases": "3,532",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Uzbekistan",
+            "Confirmed Cases": "5,767",
+            "Reported Death": "19",
+            "Recovered Cases": "4,166",
+            "Active Cases": "1,582",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Senegal",
+            "Confirmed Cases": "5,475",
+            "Reported Death": "76",
+            "Recovered Cases": "3,716",
+            "Active Cases": "1,683",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "DRC",
+            "Confirmed Cases": "5,283",
+            "Reported Death": "117",
+            "Recovered Cases": "685",
+            "Active Cases": "4,481",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Tajikistan",
+            "Confirmed Cases": "5,279",
+            "Reported Death": "51",
+            "Recovered Cases": "3,762",
+            "Active Cases": "1,466",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Guinea",
+            "Confirmed Cases": "4,841",
+            "Reported Death": "26",
+            "Recovered Cases": "3,467",
+            "Active Cases": "1,348",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Haiti",
+            "Confirmed Cases": "4,688",
+            "Reported Death": "82",
+            "Recovered Cases": "24",
+            "Active Cases": "4,582",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "North Macedonia",
+            "Confirmed Cases": "4,664",
+            "Reported Death": "216",
+            "Recovered Cases": "1,836",
+            "Active Cases": "2,612",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Djibouti",
+            "Confirmed Cases": "4,557",
+            "Reported Death": "43",
+            "Recovered Cases": "3,527",
+            "Active Cases": "987",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Gabon",
+            "Confirmed Cases": "4,340",
+            "Reported Death": "32",
+            "Recovered Cases": "1,657",
+            "Active Cases": "2,651",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Kenya",
+            "Confirmed Cases": "4,257",
+            "Reported Death": "117",
+            "Recovered Cases": "1,459",
+            "Active Cases": "2,681",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "El Salvador",
+            "Confirmed Cases": "4,200",
+            "Reported Death": "82",
+            "Recovered Cases": "2,235",
+            "Active Cases": "1,883",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Luxembourg",
+            "Confirmed Cases": "4,091",
+            "Reported Death": "110",
+            "Recovered Cases": "3,940",
+            "Active Cases": "41",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Hungary",
+            "Confirmed Cases": "4,079",
+            "Reported Death": "568",
+            "Recovered Cases": "2,564",
+            "Active Cases": "947",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Ethiopia",
+            "Confirmed Cases": "3,954",
+            "Reported Death": "65",
+            "Recovered Cases": "934",
+            "Active Cases": "2,955",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Bulgaria",
+            "Confirmed Cases": "3,674",
+            "Reported Death": "190",
+            "Recovered Cases": "1,941",
+            "Active Cases": "1,543",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Venezuela",
+            "Confirmed Cases": "3,483",
+            "Reported Death": "28",
+            "Recovered Cases": "835",
+            "Active Cases": "2,620",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Greece",
+            "Confirmed Cases": "3,227",
+            "Reported Death": "188",
+            "Recovered Cases": "1,374",
+            "Active Cases": "1,665",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Bosnia and Herzegovina",
+            "Confirmed Cases": "3,174",
+            "Reported Death": "168",
+            "Recovered Cases": "2,219",
+            "Active Cases": "787",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Thailand",
+            "Confirmed Cases": "3,141",
+            "Reported Death": "58",
+            "Recovered Cases": "2,997",
+            "Active Cases": "86",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Somalia",
+            "Confirmed Cases": "2,719",
+            "Reported Death": "88",
+            "Recovered Cases": "724",
+            "Active Cases": "1,907",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Kyrgyzstan",
+            "Confirmed Cases": "2,657",
+            "Reported Death": "31",
+            "Recovered Cases": "1,933",
+            "Active Cases": "693",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "CAR",
+            "Confirmed Cases": "2,605",
+            "Reported Death": "19",
+            "Recovered Cases": "417",
+            "Active Cases": "2,169",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Mauritania",
+            "Confirmed Cases": "2,424",
+            "Reported Death": "97",
+            "Recovered Cases": "550",
+            "Active Cases": "1,777",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Mayotte",
+            "Confirmed Cases": "2,383",
+            "Reported Death": "29",
+            "Recovered Cases": "2,066",
+            "Active Cases": "288",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Cuba",
+            "Confirmed Cases": "2,295",
+            "Reported Death": "85",
+            "Recovered Cases": "2,020",
+            "Active Cases": "190",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Croatia",
+            "Confirmed Cases": "2,269",
+            "Reported Death": "107",
+            "Recovered Cases": "2,142",
+            "Active Cases": "20",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Maldives",
+            "Confirmed Cases": "2,137",
+            "Reported Death": "8",
+            "Recovered Cases": "1,677",
+            "Active Cases": "452",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Estonia",
+            "Confirmed Cases": "1,977",
+            "Reported Death": "69",
+            "Recovered Cases": "1,748",
+            "Active Cases": "160",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Sri Lanka",
+            "Confirmed Cases": "1,946",
+            "Reported Death": "11",
+            "Recovered Cases": "1,421",
+            "Active Cases": "514",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Costa Rica",
+            "Confirmed Cases": "1,939",
+            "Reported Death": "12",
+            "Recovered Cases": "937",
+            "Active Cases": "990",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Mali",
+            "Confirmed Cases": "1,906",
+            "Reported Death": "107",
+            "Recovered Cases": "1,192",
+            "Active Cases": "607",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "South Sudan",
+            "Confirmed Cases": "1,830",
+            "Reported Death": "32",
+            "Recovered Cases": "117",
+            "Active Cases": "1,681",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Nicaragua",
+            "Confirmed Cases": "1,823",
+            "Reported Death": "64",
+            "Recovered Cases": "1,238",
+            "Active Cases": "521",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Iceland",
+            "Confirmed Cases": "1,816",
+            "Reported Death": "10",
+            "Recovered Cases": "1,801",
+            "Active Cases": "5",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Albania",
+            "Confirmed Cases": "1,788",
+            "Reported Death": "39",
+            "Recovered Cases": "1,086",
+            "Active Cases": "663",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Lithuania",
+            "Confirmed Cases": "1,784",
+            "Reported Death": "76",
+            "Recovered Cases": "1,449",
+            "Active Cases": "259",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "French Guiana",
+            "Confirmed Cases": "1,758",
+            "Reported Death": "5",
+            "Recovered Cases": "784",
+            "Active Cases": "969",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Equatorial Guinea",
+            "Confirmed Cases": "1,664",
+            "Reported Death": "32",
+            "Recovered Cases": "515",
+            "Active Cases": "1,117",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Slovakia",
+            "Confirmed Cases": "1,562",
+            "Reported Death": "28",
+            "Recovered Cases": "1,443",
+            "Active Cases": "91",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Slovenia",
+            "Confirmed Cases": "1,511",
+            "Reported Death": "109",
+            "Recovered Cases": "1,359",
+            "Active Cases": "43",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "New Zealand",
+            "Confirmed Cases": "1,507",
+            "Reported Death": "22",
+            "Recovered Cases": "1,482",
+            "Active Cases": "3",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Lebanon",
+            "Confirmed Cases": "1,495",
+            "Reported Death": "32",
+            "Recovered Cases": "944",
+            "Active Cases": "519",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Guinea-Bissau",
+            "Confirmed Cases": "1,492",
+            "Reported Death": "15",
+            "Recovered Cases": "153",
+            "Active Cases": "1,324",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Zambia",
+            "Confirmed Cases": "1,416",
+            "Reported Death": "11",
+            "Recovered Cases": "1,144",
+            "Active Cases": "261",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Madagascar",
+            "Confirmed Cases": "1,403",
+            "Reported Death": "13",
+            "Recovered Cases": "463",
+            "Active Cases": "927",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Paraguay",
+            "Confirmed Cases": "1,330",
+            "Reported Death": "13",
+            "Recovered Cases": "717",
+            "Active Cases": "600",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Sierra Leone",
+            "Confirmed Cases": "1,272",
+            "Reported Death": "51",
+            "Recovered Cases": "710",
+            "Active Cases": "511",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Tunisia",
+            "Confirmed Cases": "1,132",
+            "Reported Death": "50",
+            "Recovered Cases": "1,006",
+            "Active Cases": "76",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Hong Kong",
+            "Confirmed Cases": "1,125",
+            "Reported Death": "4",
+            "Recovered Cases": "1,072",
+            "Active Cases": "49",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Latvia",
+            "Confirmed Cases": "1,108",
+            "Reported Death": "30",
+            "Recovered Cases": "903",
+            "Active Cases": "175",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Niger",
+            "Confirmed Cases": "1,020",
+            "Reported Death": "67",
+            "Recovered Cases": "901",
+            "Active Cases": "52",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Jordan",
+            "Confirmed Cases": "1,001",
+            "Reported Death": "9",
+            "Recovered Cases": "697",
+            "Active Cases": "295",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Cyprus",
+            "Confirmed Cases": "985",
+            "Reported Death": "19",
+            "Recovered Cases": "818",
+            "Active Cases": "148",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Yemen",
+            "Confirmed Cases": "909",
+            "Reported Death": "248",
+            "Recovered Cases": "273",
+            "Active Cases": "388",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Burkina Faso",
+            "Confirmed Cases": "899",
+            "Reported Death": "53",
+            "Recovered Cases": "810",
+            "Active Cases": "36",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Georgia",
+            "Confirmed Cases": "893",
+            "Reported Death": "14",
+            "Recovered Cases": "739",
+            "Active Cases": "140",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Congo",
+            "Confirmed Cases": "883",
+            "Reported Death": "27",
+            "Recovered Cases": "391",
+            "Active Cases": "465",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Andorra",
+            "Confirmed Cases": "855",
+            "Reported Death": "52",
+            "Recovered Cases": "792",
+            "Active Cases": "11",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Chad",
+            "Confirmed Cases": "854",
+            "Reported Death": "74",
+            "Recovered Cases": "733",
+            "Active Cases": "47",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Uruguay",
+            "Confirmed Cases": "850",
+            "Reported Death": "24",
+            "Recovered Cases": "814",
+            "Active Cases": "12",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Cabo Verde",
+            "Confirmed Cases": "823",
+            "Reported Death": "7",
+            "Recovered Cases": "377",
+            "Active Cases": "439",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Uganda",
+            "Confirmed Cases": "741",
+            "Reported Death": "",
+            "Recovered Cases": "486",
+            "Active Cases": "255",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "",
+            "Confirmed Cases": "721",
+            "Reported Death": "15",
+            "Recovered Cases": "651",
+            "Active Cases": "55",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Diamond Princess",
+            "Confirmed Cases": "712",
+            "Reported Death": "13",
+            "Recovered Cases": "651",
+            "Active Cases": "48",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "San Marino",
+            "Confirmed Cases": "696",
+            "Reported Death": "45",
+            "Recovered Cases": "609",
+            "Active Cases": "42",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Sao Tome and Principe",
+            "Confirmed Cases": "688",
+            "Reported Death": "12",
+            "Recovered Cases": "191",
+            "Active Cases": "485",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Malta",
+            "Confirmed Cases": "663",
+            "Reported Death": "9",
+            "Recovered Cases": "610",
+            "Active Cases": "44",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Mozambique",
+            "Confirmed Cases": "662",
+            "Reported Death": "4",
+            "Recovered Cases": "175",
+            "Active Cases": "483",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Rwanda",
+            "Confirmed Cases": "646",
+            "Reported Death": "2",
+            "Recovered Cases": "350",
+            "Active Cases": "294",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Jamaica",
+            "Confirmed Cases": "638",
+            "Reported Death": "10",
+            "Recovered Cases": "458",
+            "Active Cases": "170",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Palestine",
+            "Confirmed Cases": "600",
+            "Reported Death": "3",
+            "Recovered Cases": "415",
+            "Active Cases": "182",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Benin",
+            "Confirmed Cases": "597",
+            "Reported Death": "11",
+            "Recovered Cases": "238",
+            "Active Cases": "348",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Malawi",
+            "Confirmed Cases": "592",
+            "Reported Death": "8",
+            "Recovered Cases": "74",
+            "Active Cases": "510",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Eswatini",
+            "Confirmed Cases": "586",
+            "Reported Death": "4",
+            "Recovered Cases": "267",
+            "Active Cases": "315",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Channel Islands",
+            "Confirmed Cases": "570",
+            "Reported Death": "48",
+            "Recovered Cases": "512",
+            "Active Cases": "10",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Togo",
+            "Confirmed Cases": "547",
+            "Reported Death": "13",
+            "Recovered Cases": "353",
+            "Active Cases": "181",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Liberia",
+            "Confirmed Cases": "542",
+            "Reported Death": "33",
+            "Recovered Cases": "250",
+            "Active Cases": "259",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Libya",
+            "Confirmed Cases": "510",
+            "Reported Death": "10",
+            "Recovered Cases": "81",
+            "Active Cases": "419",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Tanzania",
+            "Confirmed Cases": "509",
+            "Reported Death": "21",
+            "Recovered Cases": "183",
+            "Active Cases": "305",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Réunion",
+            "Confirmed Cases": "502",
+            "Reported Death": "1",
+            "Recovered Cases": "460",
+            "Active Cases": "41",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Zimbabwe",
+            "Confirmed Cases": "463",
+            "Reported Death": "4",
+            "Recovered Cases": "63",
+            "Active Cases": "396",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Taiwan",
+            "Confirmed Cases": "446",
+            "Reported Death": "7",
+            "Recovered Cases": "434",
+            "Active Cases": "5",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Vietnam",
+            "Confirmed Cases": "342",
+            "Reported Death": "",
+            "Recovered Cases": "325",
+            "Active Cases": "17",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Mauritius",
+            "Confirmed Cases": "337",
+            "Reported Death": "10",
+            "Recovered Cases": "325",
+            "Active Cases": "2",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Montenegro",
+            "Confirmed Cases": "337",
+            "Reported Death": "9",
+            "Recovered Cases": "315",
+            "Active Cases": "13",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Isle of Man",
+            "Confirmed Cases": "336",
+            "Reported Death": "24",
+            "Recovered Cases": "312",
+            "Active Cases": "0",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Suriname",
+            "Confirmed Cases": "277",
+            "Reported Death": "7",
+            "Recovered Cases": "74",
+            "Active Cases": "196",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Myanmar",
+            "Confirmed Cases": "263",
+            "Reported Death": "6",
+            "Recovered Cases": "187",
+            "Active Cases": "70",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Martinique",
+            "Confirmed Cases": "221",
+            "Reported Death": "14",
+            "Recovered Cases": "98",
+            "Active Cases": "109",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Comoros",
+            "Confirmed Cases": "210",
+            "Reported Death": "5",
+            "Recovered Cases": "129",
+            "Active Cases": "76",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Mongolia",
+            "Confirmed Cases": "201",
+            "Reported Death": "",
+            "Recovered Cases": "127",
+            "Active Cases": "74",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Cayman Islands",
+            "Confirmed Cases": "193",
+            "Reported Death": "1",
+            "Recovered Cases": "141",
+            "Active Cases": "51",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Syria",
+            "Confirmed Cases": "187",
+            "Reported Death": "7",
+            "Recovered Cases": "78",
+            "Active Cases": "102",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Faeroe Islands",
+            "Confirmed Cases": "187",
+            "Reported Death": "",
+            "Recovered Cases": "187",
+            "Active Cases": "0",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Guyana",
+            "Confirmed Cases": "183",
+            "Reported Death": "12",
+            "Recovered Cases": "102",
+            "Active Cases": "69",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Gibraltar",
+            "Confirmed Cases": "176",
+            "Reported Death": "",
+            "Recovered Cases": "176",
+            "Active Cases": "0",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Guadeloupe",
+            "Confirmed Cases": "171",
+            "Reported Death": "14",
+            "Recovered Cases": "157",
+            "Active Cases": "0",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Angola",
+            "Confirmed Cases": "166",
+            "Reported Death": "8",
+            "Recovered Cases": "64",
+            "Active Cases": "94",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Bermuda",
+            "Confirmed Cases": "144",
+            "Reported Death": "9",
+            "Recovered Cases": "128",
+            "Active Cases": "7",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Eritrea",
+            "Confirmed Cases": "142",
+            "Reported Death": "",
+            "Recovered Cases": "39",
+            "Active Cases": "103",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Brunei",
+            "Confirmed Cases": "141",
+            "Reported Death": "3",
+            "Recovered Cases": "138",
+            "Active Cases": "0",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Cambodia",
+            "Confirmed Cases": "129",
+            "Reported Death": "",
+            "Recovered Cases": "126",
+            "Active Cases": "3",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Trinidad and Tobago",
+            "Confirmed Cases": "123",
+            "Reported Death": "8",
+            "Recovered Cases": "109",
+            "Active Cases": "6",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Bahamas",
+            "Confirmed Cases": "104",
+            "Reported Death": "11",
+            "Recovered Cases": "74",
+            "Active Cases": "19",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Burundi",
+            "Confirmed Cases": "104",
+            "Reported Death": "1",
+            "Recovered Cases": "75",
+            "Active Cases": "28",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Aruba",
+            "Confirmed Cases": "101",
+            "Reported Death": "3",
+            "Recovered Cases": "98",
+            "Active Cases": "0",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Monaco",
+            "Confirmed Cases": "99",
+            "Reported Death": "4",
+            "Recovered Cases": "94",
+            "Active Cases": "1",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Barbados",
+            "Confirmed Cases": "97",
+            "Reported Death": "7",
+            "Recovered Cases": "85",
+            "Active Cases": "5",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Liechtenstein",
+            "Confirmed Cases": "82",
+            "Reported Death": "1",
+            "Recovered Cases": "55",
+            "Active Cases": "26",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Botswana",
+            "Confirmed Cases": "79",
+            "Reported Death": "1",
+            "Recovered Cases": "25",
+            "Active Cases": "53",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Sint Maarten",
+            "Confirmed Cases": "77",
+            "Reported Death": "15",
+            "Recovered Cases": "62",
+            "Active Cases": "0",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Bhutan",
+            "Confirmed Cases": "67",
+            "Reported Death": "",
+            "Recovered Cases": "25",
+            "Active Cases": "42",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "French Polynesia",
+            "Confirmed Cases": "60",
+            "Reported Death": "",
+            "Recovered Cases": "60",
+            "Active Cases": "0",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Macao",
+            "Confirmed Cases": "45",
+            "Reported Death": "",
+            "Recovered Cases": "45",
+            "Active Cases": "0",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Saint Martin",
+            "Confirmed Cases": "42",
+            "Reported Death": "3",
+            "Recovered Cases": "36",
+            "Active Cases": "3",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Namibia",
+            "Confirmed Cases": "39",
+            "Reported Death": "",
+            "Recovered Cases": "19",
+            "Active Cases": "20",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Gambia",
+            "Confirmed Cases": "36",
+            "Reported Death": "1",
+            "Recovered Cases": "24",
+            "Active Cases": "11",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "St. Vincent Grenadines",
+            "Confirmed Cases": "29",
+            "Reported Death": "",
+            "Recovered Cases": "26",
+            "Active Cases": "3",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Antigua and Barbuda",
+            "Confirmed Cases": "26",
+            "Reported Death": "3",
+            "Recovered Cases": "22",
+            "Active Cases": "1",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Timor-Leste",
+            "Confirmed Cases": "24",
+            "Reported Death": "",
+            "Recovered Cases": "24",
+            "Active Cases": "0",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Curaçao",
+            "Confirmed Cases": "23",
+            "Reported Death": "1",
+            "Recovered Cases": "19",
+            "Active Cases": "3",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Grenada",
+            "Confirmed Cases": "23",
+            "Reported Death": "",
+            "Recovered Cases": "23",
+            "Active Cases": "0",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Belize",
+            "Confirmed Cases": "22",
+            "Reported Death": "2",
+            "Recovered Cases": "16",
+            "Active Cases": "4",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "New Caledonia",
+            "Confirmed Cases": "21",
+            "Reported Death": "",
+            "Recovered Cases": "21",
+            "Active Cases": "0",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Laos",
+            "Confirmed Cases": "19",
+            "Reported Death": "",
+            "Recovered Cases": "19",
+            "Active Cases": "0",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Saint Lucia",
+            "Confirmed Cases": "19",
+            "Reported Death": "",
+            "Recovered Cases": "18",
+            "Active Cases": "1",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Dominica",
+            "Confirmed Cases": "18",
+            "Reported Death": "",
+            "Recovered Cases": "18",
+            "Active Cases": "0",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Fiji",
+            "Confirmed Cases": "18",
+            "Reported Death": "",
+            "Recovered Cases": "18",
+            "Active Cases": "0",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Saint Kitts and Nevis",
+            "Confirmed Cases": "15",
+            "Reported Death": "",
+            "Recovered Cases": "15",
+            "Active Cases": "0",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Falkland Islands",
+            "Confirmed Cases": "13",
+            "Reported Death": "",
+            "Recovered Cases": "13",
+            "Active Cases": "0",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Greenland",
+            "Confirmed Cases": "13",
+            "Reported Death": "",
+            "Recovered Cases": "13",
+            "Active Cases": "0",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Turks and Caicos",
+            "Confirmed Cases": "12",
+            "Reported Death": "1",
+            "Recovered Cases": "11",
+            "Active Cases": "0",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Vatican City",
+            "Confirmed Cases": "12",
+            "Reported Death": "",
+            "Recovered Cases": "12",
+            "Active Cases": "0",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Montserrat",
+            "Confirmed Cases": "11",
+            "Reported Death": "1",
+            "Recovered Cases": "10",
+            "Active Cases": "0",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Seychelles",
+            "Confirmed Cases": "11",
+            "Reported Death": "",
+            "Recovered Cases": "11",
+            "Active Cases": "0",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "MS Zaandam",
+            "Confirmed Cases": "9",
+            "Reported Death": "2",
+            "Recovered Cases": "",
+            "Active Cases": "7",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Western Sahara",
+            "Confirmed Cases": "9",
+            "Reported Death": "1",
+            "Recovered Cases": "8",
+            "Active Cases": "0",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "British Virgin Islands",
+            "Confirmed Cases": "8",
+            "Reported Death": "1",
+            "Recovered Cases": "7",
+            "Active Cases": "0",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Papua New Guinea",
+            "Confirmed Cases": "8",
+            "Reported Death": "",
+            "Recovered Cases": "8",
+            "Active Cases": "0",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Caribbean Netherlands",
+            "Confirmed Cases": "7",
+            "Reported Death": "",
+            "Recovered Cases": "7",
+            "Active Cases": "0",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "St. Barth",
+            "Confirmed Cases": "6",
+            "Reported Death": "",
+            "Recovered Cases": "6",
+            "Active Cases": "0",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Lesotho",
+            "Confirmed Cases": "4",
+            "Reported Death": "",
+            "Recovered Cases": "2",
+            "Active Cases": "2",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Anguilla",
+            "Confirmed Cases": "3",
+            "Reported Death": "",
+            "Recovered Cases": "3",
+            "Active Cases": "0",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Saint Pierre Miquelon",
+            "Confirmed Cases": "1",
+            "Reported Death": "",
+            "Recovered Cases": "1",
+            "Active Cases": "0",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        },
+        {
+            "Country Name": "Total:",
+            "Confirmed Cases": "2,617,021",
+            "Reported Death": "151,066",
+            "Recovered Cases": "1,156,244",
+            "Active Cases": "+3,900",
+            "Date": "19-06-2020",
+            "Time": "04:57"
+        }
+    ]
+]

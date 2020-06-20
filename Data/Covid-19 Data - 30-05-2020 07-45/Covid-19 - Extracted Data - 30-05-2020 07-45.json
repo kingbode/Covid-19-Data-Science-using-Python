@@ -1,0 +1,2020 @@
+[
+    [
+        {
+            "Country Name": "World",
+            "Confirmed Cases": "6,033,815",
+            "Reported Death": "366,891",
+            "Recovered Cases": "2,661,163",
+            "Active Cases": "3,005,761",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "North America",
+            "Confirmed Cases": "2,015,743",
+            "Reported Death": "122,347",
+            "Recovered Cases": "649,793",
+            "Active Cases": "1,243,603",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Europe",
+            "Confirmed Cases": "1,986,907",
+            "Reported Death": "172,531",
+            "Recovered Cases": "963,148",
+            "Active Cases": "851,228",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "USA",
+            "Confirmed Cases": "1,793,530",
+            "Reported Death": "104,542",
+            "Recovered Cases": "519,569",
+            "Active Cases": "1,169,419",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Asia",
+            "Confirmed Cases": "1,083,709",
+            "Reported Death": "29,743",
+            "Recovered Cases": "653,321",
+            "Active Cases": "400,645",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "South America",
+            "Confirmed Cases": "800,398",
+            "Reported Death": "38,185",
+            "Recovered Cases": "327,866",
+            "Active Cases": "434,347",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Brazil",
+            "Confirmed Cases": "468,338",
+            "Reported Death": "27,944",
+            "Recovered Cases": "193,181",
+            "Active Cases": "247,213",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Russia",
+            "Confirmed Cases": "387,623",
+            "Reported Death": "4,374",
+            "Recovered Cases": "159,257",
+            "Active Cases": "223,992",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Spain",
+            "Confirmed Cases": "285,644",
+            "Reported Death": "27,121",
+            "Recovered Cases": "196,958",
+            "Active Cases": "61,565",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "UK",
+            "Confirmed Cases": "271,222",
+            "Reported Death": "38,161",
+            "Recovered Cases": "N/A",
+            "Active Cases": "N/A",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Italy",
+            "Confirmed Cases": "232,248",
+            "Reported Death": "33,229",
+            "Recovered Cases": "152,844",
+            "Active Cases": "46,175",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "France",
+            "Confirmed Cases": "186,835",
+            "Reported Death": "28,714",
+            "Recovered Cases": "67,803",
+            "Active Cases": "90,318",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Germany",
+            "Confirmed Cases": "183,019",
+            "Reported Death": "8,594",
+            "Recovered Cases": "164,100",
+            "Active Cases": "10,325",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "India",
+            "Confirmed Cases": "173,763",
+            "Reported Death": "4,980",
+            "Recovered Cases": "82,627",
+            "Active Cases": "86,156",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Turkey",
+            "Confirmed Cases": "162,120",
+            "Reported Death": "4,489",
+            "Recovered Cases": "125,963",
+            "Active Cases": "31,668",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Peru",
+            "Confirmed Cases": "148,285",
+            "Reported Death": "4,230",
+            "Recovered Cases": "62,791",
+            "Active Cases": "81,264",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Iran",
+            "Confirmed Cases": "146,668",
+            "Reported Death": "7,677",
+            "Recovered Cases": "114,931",
+            "Active Cases": "24,060",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Africa",
+            "Confirmed Cases": "137,544",
+            "Reported Death": "3,945",
+            "Recovered Cases": "58,197",
+            "Active Cases": "75,402",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Chile",
+            "Confirmed Cases": "90,638",
+            "Reported Death": "944",
+            "Recovered Cases": "38,598",
+            "Active Cases": "51,096",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Canada",
+            "Confirmed Cases": "89,418",
+            "Reported Death": "6,979",
+            "Recovered Cases": "47,518",
+            "Active Cases": "34,921",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Mexico",
+            "Confirmed Cases": "84,627",
+            "Reported Death": "9,415",
+            "Recovered Cases": "59,610",
+            "Active Cases": "15,602",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "China",
+            "Confirmed Cases": "82,999",
+            "Reported Death": "4,634",
+            "Recovered Cases": "78,302",
+            "Active Cases": "63",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Saudi Arabia",
+            "Confirmed Cases": "81,766",
+            "Reported Death": "458",
+            "Recovered Cases": "57,013",
+            "Active Cases": "24,295",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Pakistan",
+            "Confirmed Cases": "66,457",
+            "Reported Death": "1,395",
+            "Recovered Cases": "24,131",
+            "Active Cases": "40,931",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Belgium",
+            "Confirmed Cases": "58,061",
+            "Reported Death": "9,430",
+            "Recovered Cases": "15,682",
+            "Active Cases": "32,949",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Qatar",
+            "Confirmed Cases": "52,907",
+            "Reported Death": "36",
+            "Recovered Cases": "20,604",
+            "Active Cases": "32,267",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Netherlands",
+            "Confirmed Cases": "46,126",
+            "Reported Death": "5,931",
+            "Recovered Cases": "N/A",
+            "Active Cases": "N/A",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Bangladesh",
+            "Confirmed Cases": "42,844",
+            "Reported Death": "582",
+            "Recovered Cases": "9,015",
+            "Active Cases": "33,247",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Belarus",
+            "Confirmed Cases": "40,764",
+            "Reported Death": "224",
+            "Recovered Cases": "17,390",
+            "Active Cases": "23,150",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Ecuador",
+            "Confirmed Cases": "38,571",
+            "Reported Death": "3,334",
+            "Recovered Cases": "19,190",
+            "Active Cases": "16,047",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Sweden",
+            "Confirmed Cases": "36,476",
+            "Reported Death": "4,350",
+            "Recovered Cases": "4,971",
+            "Active Cases": "27,155",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Singapore",
+            "Confirmed Cases": "33,860",
+            "Reported Death": "23",
+            "Recovered Cases": "19,631",
+            "Active Cases": "14,206",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "UAE",
+            "Confirmed Cases": "33,170",
+            "Reported Death": "260",
+            "Recovered Cases": "17,097",
+            "Active Cases": "15,813",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Portugal",
+            "Confirmed Cases": "31,946",
+            "Reported Death": "1,383",
+            "Recovered Cases": "18,911",
+            "Active Cases": "11,652",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Switzerland",
+            "Confirmed Cases": "30,828",
+            "Reported Death": "1,919",
+            "Recovered Cases": "28,300",
+            "Active Cases": "609",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "South Africa",
+            "Confirmed Cases": "29,240",
+            "Reported Death": "611",
+            "Recovered Cases": "15,093",
+            "Active Cases": "13,536",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Colombia",
+            "Confirmed Cases": "26,688",
+            "Reported Death": "853",
+            "Recovered Cases": "6,913",
+            "Active Cases": "18,922",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Indonesia",
+            "Confirmed Cases": "25,216",
+            "Reported Death": "1,520",
+            "Recovered Cases": "6,492",
+            "Active Cases": "17,204",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Kuwait",
+            "Confirmed Cases": "25,184",
+            "Reported Death": "194",
+            "Recovered Cases": "9,273",
+            "Active Cases": "15,717",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Ireland",
+            "Confirmed Cases": "24,876",
+            "Reported Death": "1,645",
+            "Recovered Cases": "22,089",
+            "Active Cases": "1,142",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Poland",
+            "Confirmed Cases": "23,155",
+            "Reported Death": "1,051",
+            "Recovered Cases": "10,692",
+            "Active Cases": "11,412",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Ukraine",
+            "Confirmed Cases": "22,811",
+            "Reported Death": "679",
+            "Recovered Cases": "8,934",
+            "Active Cases": "13,198",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Egypt",
+            "Confirmed Cases": "22,082",
+            "Reported Death": "879",
+            "Recovered Cases": "5,511",
+            "Active Cases": "15,692",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Romania",
+            "Confirmed Cases": "18,982",
+            "Reported Death": "1,248",
+            "Recovered Cases": "12,829",
+            "Active Cases": "4,905",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Israel",
+            "Confirmed Cases": "16,987",
+            "Reported Death": "284",
+            "Recovered Cases": "14,776",
+            "Active Cases": "1,927",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Japan",
+            "Confirmed Cases": "16,719",
+            "Reported Death": "874",
+            "Recovered Cases": "14,254",
+            "Active Cases": "1,591",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Austria",
+            "Confirmed Cases": "16,655",
+            "Reported Death": "668",
+            "Recovered Cases": "15,347",
+            "Active Cases": "640",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Philippines",
+            "Confirmed Cases": "16,634",
+            "Reported Death": "942",
+            "Recovered Cases": "3,720",
+            "Active Cases": "11,972",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Dominican Republic",
+            "Confirmed Cases": "16,531",
+            "Reported Death": "488",
+            "Recovered Cases": "9,266",
+            "Active Cases": "6,777",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Argentina",
+            "Confirmed Cases": "15,419",
+            "Reported Death": "520",
+            "Recovered Cases": "4,788",
+            "Active Cases": "10,111",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Afghanistan",
+            "Confirmed Cases": "13,659",
+            "Reported Death": "246",
+            "Recovered Cases": "1,259",
+            "Active Cases": "12,154",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Panama",
+            "Confirmed Cases": "12,531",
+            "Reported Death": "326",
+            "Recovered Cases": "7,540",
+            "Active Cases": "4,665",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Denmark",
+            "Confirmed Cases": "11,593",
+            "Reported Death": "568",
+            "Recovered Cases": "10,240",
+            "Active Cases": "785",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "S. Korea",
+            "Confirmed Cases": "11,441",
+            "Reported Death": "269",
+            "Recovered Cases": "10,398",
+            "Active Cases": "774",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Serbia",
+            "Confirmed Cases": "11,354",
+            "Reported Death": "242",
+            "Recovered Cases": "6,524",
+            "Active Cases": "4,588",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Bahrain",
+            "Confirmed Cases": "10,449",
+            "Reported Death": "15",
+            "Recovered Cases": "5,700",
+            "Active Cases": "4,734",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Kazakhstan",
+            "Confirmed Cases": "10,382",
+            "Reported Death": "37",
+            "Recovered Cases": "5,057",
+            "Active Cases": "5,288",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Oman",
+            "Confirmed Cases": "9,820",
+            "Reported Death": "40",
+            "Recovered Cases": "2,396",
+            "Active Cases": "7,384",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Nigeria",
+            "Confirmed Cases": "9,302",
+            "Reported Death": "261",
+            "Recovered Cases": "2,697",
+            "Active Cases": "6,344",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Czechia",
+            "Confirmed Cases": "9,196",
+            "Reported Death": "319",
+            "Recovered Cases": "6,500",
+            "Active Cases": "2,377",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Algeria",
+            "Confirmed Cases": "9,134",
+            "Reported Death": "638",
+            "Recovered Cases": "5,422",
+            "Active Cases": "3,074",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Oceania",
+            "Confirmed Cases": "8,793",
+            "Reported Death": "125",
+            "Recovered Cases": "8,187",
+            "Active Cases": "481",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Bolivia",
+            "Confirmed Cases": "8,731",
+            "Reported Death": "300",
+            "Recovered Cases": "749",
+            "Active Cases": "7,682",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Armenia",
+            "Confirmed Cases": "8,676",
+            "Reported Death": "120",
+            "Recovered Cases": "3,297",
+            "Active Cases": "5,259",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Norway",
+            "Confirmed Cases": "8,422",
+            "Reported Death": "236",
+            "Recovered Cases": "7,727",
+            "Active Cases": "459",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Moldova",
+            "Confirmed Cases": "7,896",
+            "Reported Death": "288",
+            "Recovered Cases": "4,278",
+            "Active Cases": "3,330",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Malaysia",
+            "Confirmed Cases": "7,732",
+            "Reported Death": "115",
+            "Recovered Cases": "6,235",
+            "Active Cases": "1,382",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Morocco",
+            "Confirmed Cases": "7,714",
+            "Reported Death": "202",
+            "Recovered Cases": "5,271",
+            "Active Cases": "2,241",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Ghana",
+            "Confirmed Cases": "7,616",
+            "Reported Death": "34",
+            "Recovered Cases": "2,421",
+            "Active Cases": "5,161",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Australia",
+            "Confirmed Cases": "7,184",
+            "Reported Death": "103",
+            "Recovered Cases": "6,605",
+            "Active Cases": "476",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Finland",
+            "Confirmed Cases": "6,776",
+            "Reported Death": "314",
+            "Recovered Cases": "5,500",
+            "Active Cases": "962",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Iraq",
+            "Confirmed Cases": "5,873",
+            "Reported Death": "185",
+            "Recovered Cases": "3,044",
+            "Active Cases": "2,644",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Cameroon",
+            "Confirmed Cases": "5,436",
+            "Reported Death": "177",
+            "Recovered Cases": "3,326",
+            "Active Cases": "1,933",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Azerbaijan",
+            "Confirmed Cases": "4,989",
+            "Reported Death": "58",
+            "Recovered Cases": "3,125",
+            "Active Cases": "1,806",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Honduras",
+            "Confirmed Cases": "4,886",
+            "Reported Death": "199",
+            "Recovered Cases": "528",
+            "Active Cases": "4,159",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Guatemala",
+            "Confirmed Cases": "4,607",
+            "Reported Death": "90",
+            "Recovered Cases": "648",
+            "Active Cases": "3,869",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Sudan",
+            "Confirmed Cases": "4,521",
+            "Reported Death": "233",
+            "Recovered Cases": "816",
+            "Active Cases": "3,472",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Luxembourg",
+            "Confirmed Cases": "4,012",
+            "Reported Death": "110",
+            "Recovered Cases": "3,815",
+            "Active Cases": "87",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Hungary",
+            "Confirmed Cases": "3,841",
+            "Reported Death": "517",
+            "Recovered Cases": "2,024",
+            "Active Cases": "1,300",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Tajikistan",
+            "Confirmed Cases": "3,686",
+            "Reported Death": "47",
+            "Recovered Cases": "1,769",
+            "Active Cases": "1,870",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Guinea",
+            "Confirmed Cases": "3,656",
+            "Reported Death": "22",
+            "Recovered Cases": "2,000",
+            "Active Cases": "1,634",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Uzbekistan",
+            "Confirmed Cases": "3,468",
+            "Reported Death": "14",
+            "Recovered Cases": "2,728",
+            "Active Cases": "726",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Senegal",
+            "Confirmed Cases": "3,429",
+            "Reported Death": "41",
+            "Recovered Cases": "1,738",
+            "Active Cases": "1,650",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Thailand",
+            "Confirmed Cases": "3,077",
+            "Reported Death": "57",
+            "Recovered Cases": "2,961",
+            "Active Cases": "59",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Djibouti",
+            "Confirmed Cases": "2,914",
+            "Reported Death": "20",
+            "Recovered Cases": "1,241",
+            "Active Cases": "1,653",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Greece",
+            "Confirmed Cases": "2,909",
+            "Reported Death": "175",
+            "Recovered Cases": "1,374",
+            "Active Cases": "1,360",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "DRC",
+            "Confirmed Cases": "2,833",
+            "Reported Death": "69",
+            "Recovered Cases": "400",
+            "Active Cases": "2,364",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Ivory Coast",
+            "Confirmed Cases": "2,750",
+            "Reported Death": "32",
+            "Recovered Cases": "1,370",
+            "Active Cases": "1,348",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Gabon",
+            "Confirmed Cases": "2,613",
+            "Reported Death": "15",
+            "Recovered Cases": "709",
+            "Active Cases": "1,889",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Bosnia and Herzegovina",
+            "Confirmed Cases": "2,485",
+            "Reported Death": "153",
+            "Recovered Cases": "1,803",
+            "Active Cases": "529",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Bulgaria",
+            "Confirmed Cases": "2,485",
+            "Reported Death": "136",
+            "Recovered Cases": "1,016",
+            "Active Cases": "1,333",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "El Salvador",
+            "Confirmed Cases": "2,278",
+            "Reported Death": "43",
+            "Recovered Cases": "1,017",
+            "Active Cases": "1,218",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Croatia",
+            "Confirmed Cases": "2,245",
+            "Reported Death": "103",
+            "Recovered Cases": "2,059",
+            "Active Cases": "83",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "North Macedonia",
+            "Confirmed Cases": "2,129",
+            "Reported Death": "126",
+            "Recovered Cases": "1,516",
+            "Active Cases": "487",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Cuba",
+            "Confirmed Cases": "2,005",
+            "Reported Death": "82",
+            "Recovered Cases": "1,760",
+            "Active Cases": "163",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Estonia",
+            "Confirmed Cases": "1,859",
+            "Reported Death": "67",
+            "Recovered Cases": "1,610",
+            "Active Cases": "182",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Somalia",
+            "Confirmed Cases": "1,828",
+            "Reported Death": "72",
+            "Recovered Cases": "310",
+            "Active Cases": "1,446",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Iceland",
+            "Confirmed Cases": "1,805",
+            "Reported Death": "10",
+            "Recovered Cases": "1,794",
+            "Active Cases": "1",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Kenya",
+            "Confirmed Cases": "1,745",
+            "Reported Death": "62",
+            "Recovered Cases": "438",
+            "Active Cases": "1,245",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Kyrgyzstan",
+            "Confirmed Cases": "1,722",
+            "Reported Death": "16",
+            "Recovered Cases": "1,113",
+            "Active Cases": "593",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Mayotte",
+            "Confirmed Cases": "1,699",
+            "Reported Death": "21",
+            "Recovered Cases": "1,385",
+            "Active Cases": "293",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Lithuania",
+            "Confirmed Cases": "1,662",
+            "Reported Death": "68",
+            "Recovered Cases": "1,216",
+            "Active Cases": "378",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Maldives",
+            "Confirmed Cases": "1,591",
+            "Reported Death": "5",
+            "Recovered Cases": "197",
+            "Active Cases": "1,389",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Haiti",
+            "Confirmed Cases": "1,584",
+            "Reported Death": "35",
+            "Recovered Cases": "22",
+            "Active Cases": "1,527",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Sri Lanka",
+            "Confirmed Cases": "1,558",
+            "Reported Death": "10",
+            "Recovered Cases": "754",
+            "Active Cases": "794",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Slovakia",
+            "Confirmed Cases": "1,520",
+            "Reported Death": "28",
+            "Recovered Cases": "1,338",
+            "Active Cases": "154",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "New Zealand",
+            "Confirmed Cases": "1,504",
+            "Reported Death": "22",
+            "Recovered Cases": "1,481",
+            "Active Cases": "1",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Slovenia",
+            "Confirmed Cases": "1,473",
+            "Reported Death": "108",
+            "Recovered Cases": "1,357",
+            "Active Cases": "8",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Venezuela",
+            "Confirmed Cases": "1,370",
+            "Reported Death": "14",
+            "Recovered Cases": "302",
+            "Active Cases": "1,054",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Equatorial Guinea",
+            "Confirmed Cases": "1,306",
+            "Reported Death": "12",
+            "Recovered Cases": "200",
+            "Active Cases": "1,094",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Guinea-Bissau",
+            "Confirmed Cases": "1,256",
+            "Reported Death": "8",
+            "Recovered Cases": "42",
+            "Active Cases": "1,206",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Mali",
+            "Confirmed Cases": "1,226",
+            "Reported Death": "73",
+            "Recovered Cases": "669",
+            "Active Cases": "484",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Nepal",
+            "Confirmed Cases": "1,212",
+            "Reported Death": "6",
+            "Recovered Cases": "206",
+            "Active Cases": "1,000",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Lebanon",
+            "Confirmed Cases": "1,172",
+            "Reported Death": "26",
+            "Recovered Cases": "705",
+            "Active Cases": "441",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Albania",
+            "Confirmed Cases": "1,099",
+            "Reported Death": "33",
+            "Recovered Cases": "851",
+            "Active Cases": "215",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Hong Kong",
+            "Confirmed Cases": "1,080",
+            "Reported Death": "4",
+            "Recovered Cases": "1,035",
+            "Active Cases": "41",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Tunisia",
+            "Confirmed Cases": "1,071",
+            "Reported Death": "48",
+            "Recovered Cases": "946",
+            "Active Cases": "77",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Latvia",
+            "Confirmed Cases": "1,064",
+            "Reported Death": "24",
+            "Recovered Cases": "745",
+            "Active Cases": "295",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Zambia",
+            "Confirmed Cases": "1,057",
+            "Reported Death": "7",
+            "Recovered Cases": "779",
+            "Active Cases": "271",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Costa Rica",
+            "Confirmed Cases": "1,022",
+            "Reported Death": "10",
+            "Recovered Cases": "653",
+            "Active Cases": "359",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "South Sudan",
+            "Confirmed Cases": "994",
+            "Reported Death": "10",
+            "Recovered Cases": "6",
+            "Active Cases": "978",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Ethiopia",
+            "Confirmed Cases": "968",
+            "Reported Death": "8",
+            "Recovered Cases": "197",
+            "Active Cases": "763",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Niger",
+            "Confirmed Cases": "955",
+            "Reported Death": "64",
+            "Recovered Cases": "813",
+            "Active Cases": "78",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Cyprus",
+            "Confirmed Cases": "942",
+            "Reported Death": "17",
+            "Recovered Cases": "784",
+            "Active Cases": "141",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Paraguay",
+            "Confirmed Cases": "917",
+            "Reported Death": "11",
+            "Recovered Cases": "413",
+            "Active Cases": "493",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "CAR",
+            "Confirmed Cases": "874",
+            "Reported Death": "1",
+            "Recovered Cases": "23",
+            "Active Cases": "850",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Burkina Faso",
+            "Confirmed Cases": "847",
+            "Reported Death": "53",
+            "Recovered Cases": "720",
+            "Active Cases": "74",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Sierra Leone",
+            "Confirmed Cases": "829",
+            "Reported Death": "45",
+            "Recovered Cases": "386",
+            "Active Cases": "398",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Uruguay",
+            "Confirmed Cases": "816",
+            "Reported Death": "22",
+            "Recovered Cases": "680",
+            "Active Cases": "114",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Andorra",
+            "Confirmed Cases": "764",
+            "Reported Death": "51",
+            "Recovered Cases": "684",
+            "Active Cases": "29",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Chad",
+            "Confirmed Cases": "759",
+            "Reported Death": "65",
+            "Recovered Cases": "444",
+            "Active Cases": "250",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Nicaragua",
+            "Confirmed Cases": "759",
+            "Reported Death": "35",
+            "Recovered Cases": "370",
+            "Active Cases": "354",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Georgia",
+            "Confirmed Cases": "746",
+            "Reported Death": "12",
+            "Recovered Cases": "576",
+            "Active Cases": "158",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Jordan",
+            "Confirmed Cases": "730",
+            "Reported Death": "9",
+            "Recovered Cases": "507",
+            "Active Cases": "214",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "",
+            "Confirmed Cases": "721",
+            "Reported Death": "15",
+            "Recovered Cases": "651",
+            "Active Cases": "55",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Diamond Princess",
+            "Confirmed Cases": "712",
+            "Reported Death": "13",
+            "Recovered Cases": "651",
+            "Active Cases": "48",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Madagascar",
+            "Confirmed Cases": "698",
+            "Reported Death": "5",
+            "Recovered Cases": "164",
+            "Active Cases": "529",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "San Marino",
+            "Confirmed Cases": "671",
+            "Reported Death": "42",
+            "Recovered Cases": "344",
+            "Active Cases": "285",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Malta",
+            "Confirmed Cases": "616",
+            "Reported Death": "9",
+            "Recovered Cases": "514",
+            "Active Cases": "93",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Jamaica",
+            "Confirmed Cases": "575",
+            "Reported Death": "9",
+            "Recovered Cases": "289",
+            "Active Cases": "277",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Congo",
+            "Confirmed Cases": "571",
+            "Reported Death": "19",
+            "Recovered Cases": "161",
+            "Active Cases": "391",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Channel Islands",
+            "Confirmed Cases": "560",
+            "Reported Death": "45",
+            "Recovered Cases": "512",
+            "Active Cases": "3",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Tanzania",
+            "Confirmed Cases": "509",
+            "Reported Death": "21",
+            "Recovered Cases": "183",
+            "Active Cases": "305",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Réunion",
+            "Confirmed Cases": "470",
+            "Reported Death": "1",
+            "Recovered Cases": "411",
+            "Active Cases": "58",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Sao Tome and Principe",
+            "Confirmed Cases": "463",
+            "Reported Death": "12",
+            "Recovered Cases": "68",
+            "Active Cases": "383",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "French Guiana",
+            "Confirmed Cases": "450",
+            "Reported Death": "1",
+            "Recovered Cases": "172",
+            "Active Cases": "277",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Palestine",
+            "Confirmed Cases": "446",
+            "Reported Death": "3",
+            "Recovered Cases": "368",
+            "Active Cases": "75",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Taiwan",
+            "Confirmed Cases": "442",
+            "Reported Death": "7",
+            "Recovered Cases": "420",
+            "Active Cases": "15",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Togo",
+            "Confirmed Cases": "428",
+            "Reported Death": "13",
+            "Recovered Cases": "202",
+            "Active Cases": "213",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Mauritania",
+            "Confirmed Cases": "423",
+            "Reported Death": "20",
+            "Recovered Cases": "21",
+            "Active Cases": "382",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Cabo Verde",
+            "Confirmed Cases": "405",
+            "Reported Death": "4",
+            "Recovered Cases": "155",
+            "Active Cases": "246",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Rwanda",
+            "Confirmed Cases": "355",
+            "Reported Death": "",
+            "Recovered Cases": "247",
+            "Active Cases": "108",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Isle of Man",
+            "Confirmed Cases": "336",
+            "Reported Death": "24",
+            "Recovered Cases": "309",
+            "Active Cases": "3",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Mauritius",
+            "Confirmed Cases": "335",
+            "Reported Death": "10",
+            "Recovered Cases": "322",
+            "Active Cases": "3",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Uganda",
+            "Confirmed Cases": "329",
+            "Reported Death": "",
+            "Recovered Cases": "72",
+            "Active Cases": "257",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Vietnam",
+            "Confirmed Cases": "328",
+            "Reported Death": "",
+            "Recovered Cases": "279",
+            "Active Cases": "49",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Montenegro",
+            "Confirmed Cases": "324",
+            "Reported Death": "9",
+            "Recovered Cases": "315",
+            "Active Cases": "0",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Yemen",
+            "Confirmed Cases": "283",
+            "Reported Death": "65",
+            "Recovered Cases": "11",
+            "Active Cases": "207",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Eswatini",
+            "Confirmed Cases": "279",
+            "Reported Death": "2",
+            "Recovered Cases": "168",
+            "Active Cases": "109",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Liberia",
+            "Confirmed Cases": "273",
+            "Reported Death": "27",
+            "Recovered Cases": "146",
+            "Active Cases": "100",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Malawi",
+            "Confirmed Cases": "273",
+            "Reported Death": "4",
+            "Recovered Cases": "42",
+            "Active Cases": "227",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Mozambique",
+            "Confirmed Cases": "234",
+            "Reported Death": "2",
+            "Recovered Cases": "84",
+            "Active Cases": "148",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Myanmar",
+            "Confirmed Cases": "224",
+            "Reported Death": "6",
+            "Recovered Cases": "130",
+            "Active Cases": "88",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Benin",
+            "Confirmed Cases": "224",
+            "Reported Death": "3",
+            "Recovered Cases": "136",
+            "Active Cases": "85",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Martinique",
+            "Confirmed Cases": "200",
+            "Reported Death": "14",
+            "Recovered Cases": "98",
+            "Active Cases": "88",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Faeroe Islands",
+            "Confirmed Cases": "187",
+            "Reported Death": "",
+            "Recovered Cases": "187",
+            "Active Cases": "0",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Mongolia",
+            "Confirmed Cases": "179",
+            "Reported Death": "",
+            "Recovered Cases": "44",
+            "Active Cases": "135",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Guadeloupe",
+            "Confirmed Cases": "162",
+            "Reported Death": "14",
+            "Recovered Cases": "138",
+            "Active Cases": "10",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Gibraltar",
+            "Confirmed Cases": "161",
+            "Reported Death": "",
+            "Recovered Cases": "148",
+            "Active Cases": "13",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Guyana",
+            "Confirmed Cases": "150",
+            "Reported Death": "11",
+            "Recovered Cases": "67",
+            "Active Cases": "72",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Zimbabwe",
+            "Confirmed Cases": "149",
+            "Reported Death": "4",
+            "Recovered Cases": "28",
+            "Active Cases": "117",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Brunei",
+            "Confirmed Cases": "141",
+            "Reported Death": "2",
+            "Recovered Cases": "138",
+            "Active Cases": "1",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Cayman Islands",
+            "Confirmed Cases": "141",
+            "Reported Death": "1",
+            "Recovered Cases": "68",
+            "Active Cases": "72",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Bermuda",
+            "Confirmed Cases": "140",
+            "Reported Death": "9",
+            "Recovered Cases": "92",
+            "Active Cases": "39",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Cambodia",
+            "Confirmed Cases": "124",
+            "Reported Death": "",
+            "Recovered Cases": "122",
+            "Active Cases": "2",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Syria",
+            "Confirmed Cases": "122",
+            "Reported Death": "4",
+            "Recovered Cases": "43",
+            "Active Cases": "75",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Libya",
+            "Confirmed Cases": "118",
+            "Reported Death": "5",
+            "Recovered Cases": "41",
+            "Active Cases": "72",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Trinidad and Tobago",
+            "Confirmed Cases": "116",
+            "Reported Death": "8",
+            "Recovered Cases": "108",
+            "Active Cases": "0",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Bahamas",
+            "Confirmed Cases": "102",
+            "Reported Death": "11",
+            "Recovered Cases": "48",
+            "Active Cases": "43",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Aruba",
+            "Confirmed Cases": "101",
+            "Reported Death": "3",
+            "Recovered Cases": "98",
+            "Active Cases": "0",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Monaco",
+            "Confirmed Cases": "98",
+            "Reported Death": "4",
+            "Recovered Cases": "90",
+            "Active Cases": "4",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Barbados",
+            "Confirmed Cases": "92",
+            "Reported Death": "7",
+            "Recovered Cases": "76",
+            "Active Cases": "9",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Comoros",
+            "Confirmed Cases": "87",
+            "Reported Death": "2",
+            "Recovered Cases": "24",
+            "Active Cases": "61",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Liechtenstein",
+            "Confirmed Cases": "82",
+            "Reported Death": "1",
+            "Recovered Cases": "55",
+            "Active Cases": "26",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Angola",
+            "Confirmed Cases": "81",
+            "Reported Death": "4",
+            "Recovered Cases": "18",
+            "Active Cases": "59",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Sint Maarten",
+            "Confirmed Cases": "77",
+            "Reported Death": "15",
+            "Recovered Cases": "60",
+            "Active Cases": "2",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "French Polynesia",
+            "Confirmed Cases": "60",
+            "Reported Death": "",
+            "Recovered Cases": "60",
+            "Active Cases": "0",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Macao",
+            "Confirmed Cases": "45",
+            "Reported Death": "",
+            "Recovered Cases": "45",
+            "Active Cases": "0",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Burundi",
+            "Confirmed Cases": "42",
+            "Reported Death": "1",
+            "Recovered Cases": "20",
+            "Active Cases": "21",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Saint Martin",
+            "Confirmed Cases": "40",
+            "Reported Death": "3",
+            "Recovered Cases": "33",
+            "Active Cases": "4",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Eritrea",
+            "Confirmed Cases": "39",
+            "Reported Death": "",
+            "Recovered Cases": "39",
+            "Active Cases": "0",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Botswana",
+            "Confirmed Cases": "35",
+            "Reported Death": "1",
+            "Recovered Cases": "20",
+            "Active Cases": "14",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Bhutan",
+            "Confirmed Cases": "33",
+            "Reported Death": "",
+            "Recovered Cases": "6",
+            "Active Cases": "27",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "St. Vincent Grenadines",
+            "Confirmed Cases": "26",
+            "Reported Death": "",
+            "Recovered Cases": "14",
+            "Active Cases": "12",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Antigua and Barbuda",
+            "Confirmed Cases": "25",
+            "Reported Death": "3",
+            "Recovered Cases": "19",
+            "Active Cases": "3",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Gambia",
+            "Confirmed Cases": "25",
+            "Reported Death": "1",
+            "Recovered Cases": "20",
+            "Active Cases": "4",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Timor-Leste",
+            "Confirmed Cases": "24",
+            "Reported Death": "",
+            "Recovered Cases": "24",
+            "Active Cases": "0",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Grenada",
+            "Confirmed Cases": "23",
+            "Reported Death": "",
+            "Recovered Cases": "18",
+            "Active Cases": "5",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Namibia",
+            "Confirmed Cases": "23",
+            "Reported Death": "",
+            "Recovered Cases": "14",
+            "Active Cases": "9",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Laos",
+            "Confirmed Cases": "19",
+            "Reported Death": "",
+            "Recovered Cases": "16",
+            "Active Cases": "3",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "New Caledonia",
+            "Confirmed Cases": "19",
+            "Reported Death": "",
+            "Recovered Cases": "18",
+            "Active Cases": "1",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Belize",
+            "Confirmed Cases": "18",
+            "Reported Death": "2",
+            "Recovered Cases": "16",
+            "Active Cases": "0",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Curaçao",
+            "Confirmed Cases": "18",
+            "Reported Death": "1",
+            "Recovered Cases": "14",
+            "Active Cases": "3",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Fiji",
+            "Confirmed Cases": "18",
+            "Reported Death": "",
+            "Recovered Cases": "15",
+            "Active Cases": "3",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Saint Lucia",
+            "Confirmed Cases": "18",
+            "Reported Death": "",
+            "Recovered Cases": "18",
+            "Active Cases": "0",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Dominica",
+            "Confirmed Cases": "16",
+            "Reported Death": "",
+            "Recovered Cases": "16",
+            "Active Cases": "0",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Saint Kitts and Nevis",
+            "Confirmed Cases": "15",
+            "Reported Death": "",
+            "Recovered Cases": "15",
+            "Active Cases": "0",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Falkland Islands",
+            "Confirmed Cases": "13",
+            "Reported Death": "",
+            "Recovered Cases": "13",
+            "Active Cases": "0",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Greenland",
+            "Confirmed Cases": "13",
+            "Reported Death": "",
+            "Recovered Cases": "11",
+            "Active Cases": "2",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Suriname",
+            "Confirmed Cases": "12",
+            "Reported Death": "1",
+            "Recovered Cases": "9",
+            "Active Cases": "2",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Turks and Caicos",
+            "Confirmed Cases": "12",
+            "Reported Death": "1",
+            "Recovered Cases": "10",
+            "Active Cases": "1",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Vatican City",
+            "Confirmed Cases": "12",
+            "Reported Death": "",
+            "Recovered Cases": "2",
+            "Active Cases": "10",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Montserrat",
+            "Confirmed Cases": "11",
+            "Reported Death": "1",
+            "Recovered Cases": "10",
+            "Active Cases": "0",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Seychelles",
+            "Confirmed Cases": "11",
+            "Reported Death": "",
+            "Recovered Cases": "11",
+            "Active Cases": "0",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "MS Zaandam",
+            "Confirmed Cases": "9",
+            "Reported Death": "2",
+            "Recovered Cases": "",
+            "Active Cases": "7",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Western Sahara",
+            "Confirmed Cases": "9",
+            "Reported Death": "1",
+            "Recovered Cases": "6",
+            "Active Cases": "2",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "British Virgin Islands",
+            "Confirmed Cases": "8",
+            "Reported Death": "1",
+            "Recovered Cases": "7",
+            "Active Cases": "0",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Papua New Guinea",
+            "Confirmed Cases": "8",
+            "Reported Death": "",
+            "Recovered Cases": "8",
+            "Active Cases": "0",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Caribbean Netherlands",
+            "Confirmed Cases": "6",
+            "Reported Death": "",
+            "Recovered Cases": "6",
+            "Active Cases": "0",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "St. Barth",
+            "Confirmed Cases": "6",
+            "Reported Death": "",
+            "Recovered Cases": "6",
+            "Active Cases": "0",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Anguilla",
+            "Confirmed Cases": "3",
+            "Reported Death": "",
+            "Recovered Cases": "3",
+            "Active Cases": "0",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Lesotho",
+            "Confirmed Cases": "2",
+            "Reported Death": "",
+            "Recovered Cases": "1",
+            "Active Cases": "1",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Saint Pierre Miquelon",
+            "Confirmed Cases": "1",
+            "Reported Death": "",
+            "Recovered Cases": "1",
+            "Active Cases": "0",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        },
+        {
+            "Country Name": "Total:",
+            "Confirmed Cases": "2,015,743",
+            "Reported Death": "122,347",
+            "Recovered Cases": "649,793",
+            "Active Cases": "1,243,603",
+            "Date": "30-05-2020",
+            "Time": "07:45"
+        }
+    ]
+]
