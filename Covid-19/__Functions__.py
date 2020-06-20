@@ -17,10 +17,15 @@ import errno
 import json
 import os
 import pandas
+
+from selenium.webdriver.chrome.service import Service
+
 from tqdm import tqdm
 
 from selenium import webdriver
 
+
+Chrome_Driver_Path = r'C:\Users\Daizer\AppData\Local\Programs\Python\Python38-32\Lib\site-packages\selenium\webdriver\chrome\chromedriver.exe'
 
 """ this function to aggregate all CSV files into one file to be used in analysis """
 def _concatenate_CSV_(_CSV_File_list_, _OutputFile):
@@ -118,11 +123,19 @@ def _get_WebPage_Source_(url, webPage_filename):
     """ get the webpage source and save it in a folder with the datetime attribute """
     # options to start Chrome in headless mode.
     options = webdriver.ChromeOptions()
+    # service_ = Service.service_args()
     options.add_experimental_option("excludeSwitches", ["ignore-certificate-errors"])
     options.add_argument('--disable-gpu')
+    # to hide browser
     options.add_argument('--headless')
 
-    browser = webdriver.Chrome(chrome_options=options)
+    # to disable logging .. great
+    options.add_argument('--silent')
+
+    # service_.SuppressInitialDiagnosticInformation = True
+    # service_.HideCommandPromptWindow = True
+
+    browser = webdriver.Chrome(executable_path = Chrome_Driver_Path, chrome_options=options)
 
     # browser = webdriver.Chrome() #executable_path=os.path.abspath(“chromedriver"), chrome_options = chrome_options)
     # browser = webdriver.Chrome()
